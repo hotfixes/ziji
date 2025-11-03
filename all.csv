@@ -1,0 +1,1862 @@
+IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度
+206.190.232.192,10086,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,67 ms,17634 kB/s
+43.239.249.177,10255,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,83 ms,13122 kB/s
+54.248.75.19,443,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,82 ms,11759 kB/s
+18.176.73.69,443,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,92 ms,11651 kB/s
+46.3.104.8,10200,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,69 ms,10050 kB/s
+172.66.129.194,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,9900 kB/s
+185.193.28.30,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,181 ms,9413 kB/s
+103.30.78.148,666,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,62 ms,9298 kB/s
+49.238.238.162,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,8814 kB/s
+172.66.130.249,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,8772 kB/s
+172.66.130.239,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,8746 kB/s
+172.66.129.55,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,8665 kB/s
+103.117.151.111,2053,true,SIN,TH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,150 ms,8631 kB/s
+172.66.136.11,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,8491 kB/s
+66.81.247.242,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms,8468 kB/s
+172.66.131.54,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,159 ms,8431 kB/s
+157.90.249.92,990,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,8365 kB/s
+172.66.132.8,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,8344 kB/s
+188.245.66.87,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,8332 kB/s
+172.66.134.77,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,8332 kB/s
+51.195.119.65,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,8315 kB/s
+49.238.238.176,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,8297 kB/s
+49.238.237.231,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms,8237 kB/s
+172.66.130.144,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,8187 kB/s
+147.185.161.244,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms,8054 kB/s
+172.66.132.75,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,8031 kB/s
+49.238.238.146,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,190 ms,7963 kB/s
+49.238.237.111,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,7947 kB/s
+49.238.238.212,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,7946 kB/s
+147.78.140.217,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,165 ms,7914 kB/s
+120.55.183.176,443,true,IAD,US,North America,Ashburn,北美洲,美国,阿什本,🇺🇸,49 ms,7886 kB/s
+194.152.44.235,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,7865 kB/s
+49.238.238.170,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,7808 kB/s
+66.81.247.17,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,7788 kB/s
+172.66.131.30,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,7762 kB/s
+172.66.130.194,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,7757 kB/s
+216.151.163.39,443,true,SJC,US,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,7707 kB/s
+172.66.131.173,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,7672 kB/s
+5.178.106.158,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,7635 kB/s
+172.66.131.34,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,7586 kB/s
+104.207.148.215,8080,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,190 ms,7583 kB/s
+172.66.130.145,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,7561 kB/s
+172.66.136.108,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,7539 kB/s
+172.66.128.143,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,7527 kB/s
+172.66.130.34,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,7492 kB/s
+147.78.140.39,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,184 ms,7479 kB/s
+185.193.31.234,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms,7455 kB/s
+172.66.129.113,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,7449 kB/s
+172.66.130.33,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,7418 kB/s
+172.66.132.236,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,168 ms,7393 kB/s
+172.66.130.213,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,166 ms,7393 kB/s
+49.238.238.150,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,7381 kB/s
+172.66.128.179,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,7372 kB/s
+172.66.128.93,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,7325 kB/s
+49.238.237.112,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,7315 kB/s
+199.181.197.221,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,7315 kB/s
+49.238.237.11,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,7313 kB/s
+172.66.130.168,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,202 ms,7304 kB/s
+172.66.128.159,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,7274 kB/s
+66.81.247.240,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,7271 kB/s
+141.193.213.31,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,7265 kB/s
+141.193.213.20,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,188 ms,7255 kB/s
+49.238.238.211,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,198 ms,7248 kB/s
+172.66.129.204,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,7240 kB/s
+172.66.130.92,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,7239 kB/s
+185.148.106.52,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms,7192 kB/s
+185.148.106.53,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms,7182 kB/s
+172.66.130.169,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,7156 kB/s
+172.66.132.85,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,7139 kB/s
+49.238.237.151,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,185 ms,7128 kB/s
+172.66.132.118,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,164 ms,7127 kB/s
+172.66.133.50,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,7100 kB/s
+172.66.131.14,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,161 ms,7085 kB/s
+49.238.239.19,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,181 ms,7080 kB/s
+172.66.129.57,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,7078 kB/s
+172.66.136.51,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,7075 kB/s
+172.66.132.11,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,7065 kB/s
+193.108.54.86,443,true,GVA,CH,Europe,Geneva,欧洲,瑞士,日内瓦,🇨🇭,194 ms,7047 kB/s
+49.238.238.212,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,167 ms,7038 kB/s
+49.238.237.91,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,6959 kB/s
+49.238.237.112,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,177 ms,6937 kB/s
+172.66.131.227,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,6932 kB/s
+172.66.132.198,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,6907 kB/s
+49.238.237.51,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms,6877 kB/s
+66.81.247.19,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,6858 kB/s
+172.66.128.117,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,201 ms,6829 kB/s
+172.66.132.50,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,6826 kB/s
+216.151.163.89,443,true,SJC,US,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,185 ms,6819 kB/s
+147.185.161.77,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,6816 kB/s
+172.66.131.36,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,6807 kB/s
+141.193.213.31,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms,6794 kB/s
+49.238.238.132,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,6760 kB/s
+147.185.161.78,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,6757 kB/s
+172.66.132.57,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,6755 kB/s
+103.251.166.229,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,198 ms,6746 kB/s
+49.238.238.145,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,184 ms,6701 kB/s
+172.66.135.141,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,6698 kB/s
+51.158.244.90,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,162 ms,6682 kB/s
+172.66.128.151,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,157 ms,6680 kB/s
+49.238.238.92,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms,6652 kB/s
+172.66.129.122,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,6631 kB/s
+49.238.238.149,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,177 ms,6626 kB/s
+172.66.131.51,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,6613 kB/s
+172.66.130.160,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,6612 kB/s
+49.238.238.132,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,177 ms,6587 kB/s
+172.66.130.172,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,6579 kB/s
+172.66.130.193,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,167 ms,6566 kB/s
+172.66.130.212,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,6481 kB/s
+172.66.130.165,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,196 ms,6455 kB/s
+172.66.129.83,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,6452 kB/s
+172.66.132.145,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,170 ms,6428 kB/s
+172.66.131.77,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,6419 kB/s
+94.159.109.65,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,6413 kB/s
+172.66.128.187,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,6390 kB/s
+172.66.132.8,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,6390 kB/s
+172.66.131.196,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,6378 kB/s
+172.66.131.193,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,6364 kB/s
+49.238.237.61,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,193 ms,6321 kB/s
+172.66.130.241,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,6319 kB/s
+185.193.28.30,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,6311 kB/s
+172.66.130.194,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,164 ms,6287 kB/s
+119.204.100.216,12365,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,146 ms,6255 kB/s
+49.238.239.26,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,6255 kB/s
+49.238.237.32,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,6249 kB/s
+49.238.238.92,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,6235 kB/s
+172.66.131.173,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,170 ms,6220 kB/s
+49.238.236.24,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,6188 kB/s
+49.238.238.153,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,6179 kB/s
+172.66.133.163,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,170 ms,6167 kB/s
+159.69.102.75,2096,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,6162 kB/s
+172.66.129.69,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,6156 kB/s
+172.66.132.114,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,6146 kB/s
+172.66.132.236,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,170 ms,6138 kB/s
+172.66.130.34,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,6126 kB/s
+172.66.134.99,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,6122 kB/s
+188.116.23.17,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,223 ms,6109 kB/s
+49.238.238.161,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,6102 kB/s
+172.66.130.214,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,6096 kB/s
+49.238.238.149,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,185 ms,6093 kB/s
+93.185.166.62,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,237 ms,6089 kB/s
+49.238.237.58,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,185 ms,6079 kB/s
+172.66.131.173,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,6076 kB/s
+172.66.130.62,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,165 ms,6070 kB/s
+172.66.131.191,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,6046 kB/s
+45.112.195.55,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,192 ms,6030 kB/s
+49.238.239.15,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms,5980 kB/s
+194.76.173.6,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,5973 kB/s
+49.238.236.11,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,177 ms,5970 kB/s
+134.195.211.127,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,190 ms,5966 kB/s
+172.66.131.218,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,197 ms,5957 kB/s
+172.66.133.99,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,5953 kB/s
+172.66.132.76,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,170 ms,5938 kB/s
+185.148.106.47,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,167 ms,5917 kB/s
+154.17.22.207,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,217 ms,5912 kB/s
+172.66.132.58,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,5899 kB/s
+80.240.25.196,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,5896 kB/s
+45.159.189.26,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,229 ms,5894 kB/s
+172.66.131.34,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,5892 kB/s
+31.133.0.135,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,202 ms,5888 kB/s
+147.78.140.217,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,5885 kB/s
+88.210.37.244,2053,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,185 ms,5874 kB/s
+49.238.239.26,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,5872 kB/s
+172.66.131.161,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,167 ms,5866 kB/s
+172.66.129.127,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,5865 kB/s
+172.66.131.90,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,166 ms,5839 kB/s
+104.160.47.72,18888,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,215 ms,5829 kB/s
+94.23.74.37,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,184 ms,5828 kB/s
+172.66.134.132,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,5823 kB/s
+49.238.238.148,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,185 ms,5814 kB/s
+172.66.128.165,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,5783 kB/s
+147.78.140.39,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,180 ms,5783 kB/s
+172.66.128.179,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,199 ms,5738 kB/s
+49.238.236.21,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms,5716 kB/s
+172.66.131.49,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,5714 kB/s
+216.151.163.119,443,true,SJC,US,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,186 ms,5712 kB/s
+141.193.213.21,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms,5697 kB/s
+172.66.134.54,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,5696 kB/s
+94.131.12.56,443,true,ZRH,CH,Europe,Zurich,欧洲,瑞士,苏黎世,🇨🇭,180 ms,5686 kB/s
+188.208.197.10,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,230 ms,5682 kB/s
+172.66.128.139,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,5677 kB/s
+172.66.130.229,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,5668 kB/s
+172.66.129.70,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,5668 kB/s
+172.66.129.113,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,5651 kB/s
+66.81.247.18,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms,5649 kB/s
+172.66.131.219,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,197 ms,5642 kB/s
+185.193.31.234,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,183 ms,5630 kB/s
+172.66.131.37,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,5604 kB/s
+172.66.134.30,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,5585 kB/s
+49.238.237.59,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,177 ms,5575 kB/s
+94.159.106.227,12020,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,5575 kB/s
+172.66.128.93,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,5563 kB/s
+172.66.130.247,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,5553 kB/s
+192.248.180.28,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,5534 kB/s
+5.255.110.78,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,219 ms,5525 kB/s
+172.66.131.194,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,5513 kB/s
+172.66.131.220,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,5493 kB/s
+147.185.161.78,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,5485 kB/s
+172.66.132.91,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,5481 kB/s
+141.193.213.21,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,181 ms,5465 kB/s
+172.66.130.112,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,5463 kB/s
+172.66.129.130,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,5461 kB/s
+147.185.161.234,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,179 ms,5457 kB/s
+195.206.242.141,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,5447 kB/s
+66.81.247.238,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,5429 kB/s
+172.66.131.224,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,5403 kB/s
+172.66.131.222,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,5400 kB/s
+77.91.69.146,443,true,TLV,IL,Middle East,Tel Aviv,中东,以色列,特拉维夫,🇮🇱,254 ms,5393 kB/s
+172.66.133.163,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,170 ms,5389 kB/s
+172.66.135.158,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,5355 kB/s
+172.66.130.178,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,5331 kB/s
+172.66.132.106,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,167 ms,5318 kB/s
+86.104.75.180,2053,true,BUD,HU,Europe,Budapest,欧洲,匈牙利,布达佩斯,🇭🇺,237 ms,5314 kB/s
+49.238.238.147,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,184 ms,5312 kB/s
+172.66.132.198,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,5311 kB/s
+185.177.92.210,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,225 ms,5310 kB/s
+49.238.238.71,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,5303 kB/s
+49.238.238.71,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,168 ms,5286 kB/s
+172.66.134.54,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,5283 kB/s
+49.238.237.211,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,185 ms,5272 kB/s
+172.66.136.41,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,5270 kB/s
+172.66.130.235,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,192 ms,5267 kB/s
+66.81.247.242,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms,5245 kB/s
+172.66.132.76,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,5243 kB/s
+172.66.132.9,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,5242 kB/s
+49.238.238.71,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,168 ms,5236 kB/s
+65.109.137.239,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,192 ms,5234 kB/s
+172.66.131.174,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,5231 kB/s
+172.66.133.163,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,168 ms,5228 kB/s
+172.66.130.144,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,167 ms,5215 kB/s
+172.66.130.118,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,5205 kB/s
+172.66.131.48,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,5197 kB/s
+211.46.71.98,30012,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,121 ms,5193 kB/s
+172.66.129.68,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,5181 kB/s
+172.66.130.149,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,5180 kB/s
+178.255.222.64,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,211 ms,5174 kB/s
+89.19.44.48,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,192 ms,5170 kB/s
+172.66.131.33,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,5153 kB/s
+93.185.163.208,8105,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,229 ms,5147 kB/s
+172.66.132.41,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,5147 kB/s
+66.81.247.238,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,5144 kB/s
+49.13.153.123,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,5140 kB/s
+49.238.238.152,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,5133 kB/s
+172.66.129.168,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,168 ms,5095 kB/s
+49.238.238.51,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,5083 kB/s
+78.47.176.97,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,197 ms,5081 kB/s
+172.66.131.51,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,5061 kB/s
+172.66.132.120,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,5056 kB/s
+194.76.173.55,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,5050 kB/s
+172.66.129.15,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,5048 kB/s
+85.208.109.143,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,224 ms,5038 kB/s
+217.142.184.41,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,255 ms,5019 kB/s
+5.39.249.100,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,5017 kB/s
+172.66.131.229,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,5015 kB/s
+146.59.232.210,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,177 ms,5007 kB/s
+147.185.161.77,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,5003 kB/s
+172.66.132.46,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,5002 kB/s
+172.66.131.34,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,4999 kB/s
+141.193.213.20,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,4995 kB/s
+45.154.26.81,8443,true,SIN,TH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,151 ms,4982 kB/s
+172.66.130.188,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,4973 kB/s
+49.238.237.57,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,179 ms,4970 kB/s
+220.125.55.47,12251,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,165 ms,4969 kB/s
+172.66.130.173,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,4962 kB/s
+49.238.239.25,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms,4961 kB/s
+185.193.31.233,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,181 ms,4950 kB/s
+172.66.131.50,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,4947 kB/s
+172.66.128.180,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,4945 kB/s
+49.238.237.61,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,213 ms,4945 kB/s
+65.20.115.38,8443,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,197 ms,4943 kB/s
+193.37.70.3,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,4939 kB/s
+172.66.131.90,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,4920 kB/s
+172.66.132.57,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,4914 kB/s
+172.66.129.144,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,4913 kB/s
+77.239.105.42,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,252 ms,4911 kB/s
+172.66.132.120,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,4910 kB/s
+66.81.247.244,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,185 ms,4889 kB/s
+172.66.131.218,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,4889 kB/s
+31.133.1.8,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,184 ms,4888 kB/s
+93.185.163.220,1010,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,231 ms,4882 kB/s
+172.66.128.132,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,4880 kB/s
+172.66.130.251,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,4870 kB/s
+91.108.240.114,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,4863 kB/s
+172.66.131.188,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,4863 kB/s
+5.178.106.204,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,4857 kB/s
+49.238.236.22,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,4854 kB/s
+97.64.26.199,8443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,186 ms,4849 kB/s
+172.66.134.135,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,4847 kB/s
+49.238.238.149,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,184 ms,4846 kB/s
+172.66.132.66,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,4845 kB/s
+172.66.132.99,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,4843 kB/s
+172.66.128.132,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,4841 kB/s
+172.66.132.75,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,4839 kB/s
+185.193.28.31,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms,4835 kB/s
+49.238.237.111,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms,4829 kB/s
+172.66.129.146,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,4826 kB/s
+51.38.50.52,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,175 ms,4826 kB/s
+94.159.105.204,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,193 ms,4821 kB/s
+172.66.136.41,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,4821 kB/s
+172.66.131.48,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,4820 kB/s
+172.66.131.37,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,4813 kB/s
+93.185.163.193,4001,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,224 ms,4811 kB/s
+45.145.43.205,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,4793 kB/s
+188.130.154.4,443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,210 ms,4771 kB/s
+172.66.131.90,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,166 ms,4767 kB/s
+172.66.135.21,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,4762 kB/s
+172.66.130.235,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,4758 kB/s
+172.66.136.51,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,4753 kB/s
+172.66.130.212,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,170 ms,4753 kB/s
+49.238.238.165,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,4735 kB/s
+91.149.222.113,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,4734 kB/s
+141.193.213.30,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,171 ms,4726 kB/s
+172.66.131.14,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,4717 kB/s
+172.66.132.58,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,162 ms,4700 kB/s
+91.107.203.137,990,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,222 ms,4700 kB/s
+172.66.132.73,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,4696 kB/s
+172.66.132.96,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,4695 kB/s
+172.66.130.63,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,4694 kB/s
+172.66.132.97,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,4692 kB/s
+172.66.131.196,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,4676 kB/s
+49.238.237.11,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,4674 kB/s
+49.238.236.21,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms,4672 kB/s
+185.148.106.52,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,180 ms,4664 kB/s
+81.163.28.53,8443,true,DME,RU,Europe,Moscow,欧洲,俄罗斯联邦,莫斯科,🇷🇺,229 ms,4663 kB/s
+172.66.131.224,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,4660 kB/s
+172.66.129.164,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,162 ms,4659 kB/s
+37.1.206.12,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,230 ms,4635 kB/s
+178.255.222.118,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,188 ms,4635 kB/s
+57.129.5.105,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,163 ms,4635 kB/s
+172.66.130.34,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,4632 kB/s
+49.238.237.151,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms,4610 kB/s
+49.238.238.11,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,4607 kB/s
+172.66.128.158,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,168 ms,4574 kB/s
+66.81.247.237,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,4571 kB/s
+172.66.130.241,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,4568 kB/s
+5.181.187.58,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,243 ms,4564 kB/s
+46.8.233.12,443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,230 ms,4561 kB/s
+31.133.0.122,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,183 ms,4557 kB/s
+172.66.134.30,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,4553 kB/s
+172.66.135.21,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,4547 kB/s
+5.252.23.190,81,true,BTS,SK,Europe,Bratislava,欧洲,斯洛伐克,布拉迪斯拉发,🇸🇰,198 ms,4535 kB/s
+45.95.80.26,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,4534 kB/s
+172.66.131.224,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,197 ms,4525 kB/s
+79.137.207.61,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,252 ms,4525 kB/s
+172.66.131.228,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,4522 kB/s
+185.140.12.227,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,4522 kB/s
+49.238.237.57,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,4520 kB/s
+185.36.143.40,443,true,TXL,NL,Europe,Berlin,欧洲,德国,柏林,🇩🇪,229 ms,4503 kB/s
+172.66.132.96,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,4499 kB/s
+85.209.195.61,8443,true,DUS,DE,Europe,Düsseldorf,欧洲,德国,杜塞尔多夫,🇩🇪,224 ms,4497 kB/s
+172.66.132.85,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,4495 kB/s
+66.81.247.18,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,189 ms,4495 kB/s
+49.238.238.165,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms,4494 kB/s
+193.38.55.218,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,226 ms,4486 kB/s
+162.19.212.24,2083,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,4483 kB/s
+45.150.32.69,8082,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,249 ms,4481 kB/s
+49.238.237.11,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms,4476 kB/s
+49.238.239.17,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,206 ms,4471 kB/s
+172.66.132.120,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,4469 kB/s
+172.66.130.168,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,233 ms,4466 kB/s
+57.129.5.70,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,4464 kB/s
+172.66.136.108,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,4464 kB/s
+51.195.118.15,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,4448 kB/s
+49.238.238.92,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,181 ms,4432 kB/s
+172.66.131.17,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,4417 kB/s
+172.66.129.146,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,4407 kB/s
+172.66.130.249,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,4401 kB/s
+49.238.237.51,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms,4401 kB/s
+195.58.39.52,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,4394 kB/s
+172.66.131.28,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,4389 kB/s
+172.66.131.220,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,4388 kB/s
+172.66.129.194,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,4387 kB/s
+172.66.132.96,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,4382 kB/s
+172.66.132.8,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,4368 kB/s
+172.66.131.187,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,188 ms,4366 kB/s
+136.244.102.3,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,307 ms,4348 kB/s
+57.129.47.12,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,4343 kB/s
+154.19.241.94,28443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,186 ms,4331 kB/s
+49.238.237.31,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,184 ms,4330 kB/s
+49.238.237.64,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,181 ms,4327 kB/s
+172.66.128.143,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,4324 kB/s
+121.151.19.48,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,118 ms,4306 kB/s
+172.66.132.91,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,4304 kB/s
+172.66.131.8,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,4302 kB/s
+172.66.128.151,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,4293 kB/s
+135.125.232.249,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,4285 kB/s
+172.66.132.116,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,4276 kB/s
+172.66.129.167,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,161 ms,4275 kB/s
+178.32.137.165,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,180 ms,4269 kB/s
+107.174.202.20,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,188 ms,4258 kB/s
+46.8.71.32,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,204 ms,4255 kB/s
+172.66.128.139,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,4251 kB/s
+172.66.131.218,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,4248 kB/s
+172.66.131.38,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,4247 kB/s
+172.66.132.145,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,4241 kB/s
+14.51.200.120,12386,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,153 ms,4235 kB/s
+51.89.230.18,8443,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,193 ms,4227 kB/s
+172.66.131.8,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,4221 kB/s
+172.66.134.20,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,4207 kB/s
+172.66.132.99,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,4207 kB/s
+185.78.76.40,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,244 ms,4206 kB/s
+155.138.238.22,8443,true,ATL,US,North America,Atlanta,北美洲,美国,亚特兰大,🇺🇸,235 ms,4199 kB/s
+192.0.54.31,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,171 ms,4191 kB/s
+49.238.238.91,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,171 ms,4185 kB/s
+141.193.213.30,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,4184 kB/s
+45.158.127.48,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,184 ms,4178 kB/s
+172.66.128.117,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,4174 kB/s
+172.66.132.41,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,4168 kB/s
+172.66.132.67,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,4167 kB/s
+51.158.146.213,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,159 ms,4162 kB/s
+136.243.158.44,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,4156 kB/s
+93.185.163.197,1010,true,HAM,DE,Europe,Hamburg,欧洲,德国,汉堡,🇩🇪,213 ms,4143 kB/s
+192.0.54.31,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,4120 kB/s
+172.66.130.247,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,4119 kB/s
+51.89.23.7,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,4117 kB/s
+172.66.131.231,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,4115 kB/s
+172.66.128.159,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,188 ms,4115 kB/s
+49.238.237.63,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms,4108 kB/s
+185.170.166.31,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,180 ms,4104 kB/s
+89.23.106.39,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,224 ms,4103 kB/s
+172.66.128.151,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,4101 kB/s
+213.21.241.29,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,257 ms,4096 kB/s
+172.66.131.228,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,4093 kB/s
+172.66.130.172,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,4082 kB/s
+172.66.131.221,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,4075 kB/s
+172.66.131.77,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,4075 kB/s
+94.159.104.158,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,4074 kB/s
+49.238.238.163,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,191 ms,4072 kB/s
+49.238.237.171,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,4055 kB/s
+104.234.50.115,443,true,IAD,US,North America,Ashburn,北美洲,美国,阿什本,🇺🇸,274 ms,4052 kB/s
+138.124.53.1,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,247 ms,4051 kB/s
+172.66.132.99,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,4045 kB/s
+129.159.129.107,8443,true,TLV,IL,Middle East,Tel Aviv,中东,以色列,特拉维夫,🇮🇱,239 ms,4038 kB/s
+142.132.165.86,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,4036 kB/s
+138.197.152.31,8443,true,YYZ,CA,North America,Toronto,北美洲,加拿大,多伦多,🇨🇦,255 ms,4034 kB/s
+45.138.74.106,443,true,FRA,AT,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,254 ms,4029 kB/s
+154.19.184.100,666,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,198 ms,4029 kB/s
+49.238.238.153,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,4024 kB/s
+18.194.183.74,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,4023 kB/s
+89.208.104.179,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,248 ms,4022 kB/s
+5.75.196.103,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,4016 kB/s
+91.232.114.118,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,291 ms,4008 kB/s
+172.66.132.42,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,4005 kB/s
+45.77.4.176,36983,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,173 ms,4002 kB/s
+49.238.238.155,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,4001 kB/s
+65.109.227.138,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,192 ms,3998 kB/s
+93.185.163.220,5002,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,222 ms,3993 kB/s
+185.148.106.47,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms,3983 kB/s
+57.129.63.53,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,168 ms,3979 kB/s
+89.208.97.78,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,248 ms,3968 kB/s
+185.221.198.219,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,255 ms,3965 kB/s
+213.21.241.195,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,254 ms,3959 kB/s
+172.66.133.29,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,164 ms,3956 kB/s
+172.66.130.168,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,202 ms,3950 kB/s
+172.66.130.118,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,3949 kB/s
+172.66.132.145,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,3931 kB/s
+185.82.127.6,2053,true,RIX,LV,Europe,Riga,欧洲,拉脱维亚,里加,🇱🇻,218 ms,3928 kB/s
+49.238.237.132,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,3928 kB/s
+45.32.95.145,2083,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,183 ms,3903 kB/s
+141.94.222.46,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,191 ms,3899 kB/s
+147.45.197.233,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,249 ms,3896 kB/s
+188.165.2.84,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,187 ms,3894 kB/s
+51.38.48.190,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,193 ms,3894 kB/s
+95.182.97.125,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,194 ms,3893 kB/s
+172.66.131.53,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,3891 kB/s
+172.66.129.48,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,3890 kB/s
+172.66.130.240,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,3887 kB/s
+185.82.126.217,2053,true,RIX,LV,Europe,Riga,欧洲,拉脱维亚,里加,🇱🇻,230 ms,3878 kB/s
+192.0.54.31,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,171 ms,3877 kB/s
+185.207.133.248,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,264 ms,3875 kB/s
+194.246.81.62,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,3861 kB/s
+147.185.161.78,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms,3859 kB/s
+172.66.131.30,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,3852 kB/s
+49.238.237.31,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,3849 kB/s
+188.132.129.102,2053,true,IST,TR,Europe,Istanbul,欧洲,土耳其,伊斯坦布尔,🇹🇷,303 ms,3843 kB/s
+45.155.7.232,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,235 ms,3834 kB/s
+85.192.63.123,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,298 ms,3829 kB/s
+141.193.213.21,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,188 ms,3814 kB/s
+172.66.131.221,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,3808 kB/s
+93.185.163.197,4001,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,3808 kB/s
+150.241.108.151,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,255 ms,3808 kB/s
+5.45.86.186,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,184 ms,3806 kB/s
+172.66.134.54,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,3801 kB/s
+141.94.207.218,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,179 ms,3797 kB/s
+194.58.33.237,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,257 ms,3792 kB/s
+93.183.88.235,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,261 ms,3783 kB/s
+45.144.28.45,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,195 ms,3782 kB/s
+57.129.63.123,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,197 ms,3777 kB/s
+185.193.28.31,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms,3768 kB/s
+51.75.67.84,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,3764 kB/s
+195.200.17.21,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,248 ms,3762 kB/s
+5.178.106.104,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,3760 kB/s
+51.195.100.92,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,188 ms,3757 kB/s
+147.78.140.217,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms,3752 kB/s
+49.238.237.60,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,3749 kB/s
+185.14.30.166,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,220 ms,3748 kB/s
+172.66.131.229,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,170 ms,3739 kB/s
+46.8.228.185,443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,207 ms,3733 kB/s
+172.66.129.148,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,3732 kB/s
+103.251.164.122,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,231 ms,3730 kB/s
+194.164.34.10,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,298 ms,3725 kB/s
+212.34.153.114,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,290 ms,3719 kB/s
+188.130.154.231,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,204 ms,3717 kB/s
+172.66.131.64,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,3712 kB/s
+172.66.128.93,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,304 ms,3702 kB/s
+5.61.42.254,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,285 ms,3690 kB/s
+172.66.135.158,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,3688 kB/s
+212.34.146.229,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,256 ms,3671 kB/s
+109.120.177.101,8082,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,254 ms,3656 kB/s
+138.197.152.31,2053,true,YYZ,CA,North America,Toronto,北美洲,加拿大,多伦多,🇨🇦,253 ms,3634 kB/s
+172.66.129.153,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,3628 kB/s
+172.66.131.227,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,3624 kB/s
+80.66.87.223,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,3623 kB/s
+172.66.131.37,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,3620 kB/s
+104.234.50.115,2053,true,IAD,US,North America,Ashburn,北美洲,美国,阿什本,🇺🇸,268 ms,3604 kB/s
+51.89.23.69,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,3600 kB/s
+172.66.130.118,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,3598 kB/s
+141.94.221.79,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,197 ms,3591 kB/s
+172.66.131.218,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,192 ms,3588 kB/s
+172.66.131.225,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,3587 kB/s
+94.23.144.99,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,179 ms,3578 kB/s
+45.12.69.56,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,258 ms,3559 kB/s
+51.178.83.50,2053,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,3550 kB/s
+49.238.237.91,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,183 ms,3549 kB/s
+172.66.132.120,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,3543 kB/s
+172.66.128.158,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,168 ms,3542 kB/s
+185.154.15.154,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,261 ms,3541 kB/s
+172.66.131.51,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,3529 kB/s
+223.131.123.52,12312,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,91 ms,3522 kB/s
+212.34.132.122,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,251 ms,3518 kB/s
+150.241.105.109,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,260 ms,3502 kB/s
+51.38.48.174,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,186 ms,3497 kB/s
+172.66.133.99,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,3496 kB/s
+31.220.42.149,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,230 ms,3495 kB/s
+212.34.147.12,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,285 ms,3487 kB/s
+194.164.34.222,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,291 ms,3485 kB/s
+94.131.100.225,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,197 ms,3481 kB/s
+94.177.8.31,444,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,266 ms,3480 kB/s
+77.238.252.59,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,3473 kB/s
+5.61.47.241,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,294 ms,3467 kB/s
+59.3.3.161,8443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,111 ms,3462 kB/s
+49.238.237.62,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,183 ms,3458 kB/s
+150.241.105.232,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,262 ms,3457 kB/s
+94.177.8.4,131,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,268 ms,3454 kB/s
+188.132.192.190,2053,true,IST,TR,Europe,Istanbul,欧洲,土耳其,伊斯坦布尔,🇹🇷,232 ms,3446 kB/s
+172.206.209.177,443,true,IAD,US,North America,Ashburn,北美洲,美国,阿什本,🇺🇸,305 ms,3437 kB/s
+185.125.103.62,8082,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,257 ms,3436 kB/s
+107.172.137.69,8443,true,YYZ,US,North America,Toronto,北美洲,加拿大,多伦多,🇨🇦,252 ms,3435 kB/s
+49.238.237.31,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,171 ms,3433 kB/s
+134.195.211.207,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,196 ms,3433 kB/s
+172.66.130.63,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,160 ms,3432 kB/s
+172.66.131.77,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,3431 kB/s
+5.255.102.201,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,230 ms,3428 kB/s
+199.119.137.77,2053,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,246 ms,3428 kB/s
+172.66.128.93,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,3416 kB/s
+49.238.238.132,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,171 ms,3405 kB/s
+94.177.8.21,443,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,259 ms,3405 kB/s
+49.238.239.17,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,179 ms,3403 kB/s
+176.124.221.131,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,248 ms,3395 kB/s
+94.23.164.46,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,201 ms,3392 kB/s
+172.66.133.143,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,3389 kB/s
+51.210.150.65,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,183 ms,3384 kB/s
+172.66.136.108,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,3371 kB/s
+49.238.238.51,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,189 ms,3366 kB/s
+195.200.31.32,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,285 ms,3366 kB/s
+49.238.238.51,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,179 ms,3365 kB/s
+93.185.163.220,5001,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,222 ms,3356 kB/s
+89.208.113.120,8082,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,297 ms,3355 kB/s
+203.98.67.74,2053,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,261 ms,3346 kB/s
+147.45.197.233,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,3345 kB/s
+37.27.2.162,443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,192 ms,3341 kB/s
+172.66.128.184,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,3340 kB/s
+172.66.129.57,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,195 ms,3333 kB/s
+49.238.238.170,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,168 ms,3330 kB/s
+172.66.130.177,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,3330 kB/s
+172.66.130.112,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,3323 kB/s
+194.120.116.43,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,232 ms,3317 kB/s
+93.185.163.170,8104,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,228 ms,3314 kB/s
+148.135.59.166,22103,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,201 ms,3313 kB/s
+172.66.130.213,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,3308 kB/s
+195.200.18.232,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,3306 kB/s
+51.158.205.159,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,164 ms,3301 kB/s
+93.185.163.220,2003,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,220 ms,3291 kB/s
+172.66.132.41,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,3288 kB/s
+103.97.88.73,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,221 ms,3285 kB/s
+172.66.131.227,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,3281 kB/s
+172.66.131.223,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,3277 kB/s
+23.164.240.39,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,252 ms,3276 kB/s
+109.237.97.197,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,258 ms,3267 kB/s
+178.33.161.196,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,196 ms,3259 kB/s
+172.66.129.69,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,3252 kB/s
+185.174.137.201,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,294 ms,3252 kB/s
+213.21.241.85,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,262 ms,3249 kB/s
+147.45.40.200,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,248 ms,3248 kB/s
+195.200.19.168,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,3247 kB/s
+51.38.49.201,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,171 ms,3246 kB/s
+45.67.34.74,2053,true,OTP,RO,Europe,Bucharest,欧洲,罗马尼亚,布加勒斯特,🇷🇴,200 ms,3235 kB/s
+5.255.118.176,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,225 ms,3234 kB/s
+5.34.211.35,443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,264 ms,3231 kB/s
+23.137.248.122,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,227 ms,3228 kB/s
+49.238.238.145,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,185 ms,3221 kB/s
+172.66.130.56,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,198 ms,3210 kB/s
+172.66.130.33,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,3208 kB/s
+5.252.118.68,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,3206 kB/s
+94.247.42.207,443,true,ZRH,CH,Europe,Zurich,欧洲,瑞士,苏黎世,🇨🇭,274 ms,3201 kB/s
+49.238.238.163,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,180 ms,3197 kB/s
+49.238.237.11,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,3194 kB/s
+94.177.8.40,443,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,265 ms,3192 kB/s
+91.84.101.160,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,300 ms,3191 kB/s
+45.144.48.64,8443,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,269 ms,3190 kB/s
+172.66.130.63,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,165 ms,3190 kB/s
+95.164.87.35,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,208 ms,3188 kB/s
+150.241.108.112,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,255 ms,3186 kB/s
+78.153.136.26,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,321 ms,3179 kB/s
+172.66.128.161,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,198 ms,3170 kB/s
+172.66.131.51,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,3162 kB/s
+172.66.136.108,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,3159 kB/s
+217.30.10.55,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,271 ms,3151 kB/s
+94.142.138.192,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,320 ms,3134 kB/s
+220.125.55.47,16012,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,161 ms,3134 kB/s
+172.66.133.29,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,3132 kB/s
+38.180.68.81,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,197 ms,3129 kB/s
+141.94.77.169,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,180 ms,3124 kB/s
+185.128.104.96,8082,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,246 ms,3115 kB/s
+49.238.239.15,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,3114 kB/s
+172.66.131.27,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,160 ms,3110 kB/s
+89.208.103.81,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,3104 kB/s
+159.65.122.67,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,270 ms,3099 kB/s
+195.201.99.158,4443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,3098 kB/s
+5.252.25.44,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,188 ms,3096 kB/s
+51.195.42.9,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,3095 kB/s
+185.174.137.19,443,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,327 ms,3093 kB/s
+162.19.252.222,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,3092 kB/s
+148.135.106.200,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,194 ms,3091 kB/s
+62.60.149.186,8443,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,306 ms,3087 kB/s
+138.197.191.77,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,257 ms,3080 kB/s
+172.66.132.84,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,3077 kB/s
+172.66.131.33,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,3075 kB/s
+46.253.4.147,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,306 ms,3068 kB/s
+172.66.130.114,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,3066 kB/s
+136.244.102.3,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,251 ms,3058 kB/s
+172.66.128.128,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,200 ms,3052 kB/s
+172.66.131.196,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,3050 kB/s
+172.66.128.159,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,3047 kB/s
+172.66.129.176,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,3044 kB/s
+89.110.125.232,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,253 ms,3042 kB/s
+172.86.68.95,2053,true,MUC,DE,Europe,Munich,欧洲,德国,慕尼黑,🇩🇪,182 ms,3039 kB/s
+206.237.17.226,443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,56 ms,3038 kB/s
+212.34.148.102,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,291 ms,3036 kB/s
+185.14.30.166,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,228 ms,3033 kB/s
+89.168.68.57,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,3031 kB/s
+62.60.152.184,443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,224 ms,3023 kB/s
+172.66.129.173,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,196 ms,3018 kB/s
+195.200.18.171,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,288 ms,3014 kB/s
+49.238.237.171,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,3010 kB/s
+194.9.6.73,555,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,3009 kB/s
+49.238.238.51,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms,3008 kB/s
+185.94.167.62,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,208 ms,3007 kB/s
+95.216.215.126,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,202 ms,3000 kB/s
+194.0.194.71,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,220 ms,2999 kB/s
+38.180.18.247,8443,true,AMS,BE,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,219 ms,2997 kB/s
+89.22.232.118,8443,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,277 ms,2992 kB/s
+188.165.54.172,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,204 ms,2990 kB/s
+89.110.124.97,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,288 ms,2981 kB/s
+109.206.236.109,446,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,207 ms,2974 kB/s
+49.238.237.59,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,181 ms,2967 kB/s
+94.177.8.10,443,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,269 ms,2963 kB/s
+49.238.237.33,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,205 ms,2961 kB/s
+45.144.48.49,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,289 ms,2956 kB/s
+172.66.131.18,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,2954 kB/s
+94.177.8.54,444,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,269 ms,2947 kB/s
+178.130.43.85,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,286 ms,2946 kB/s
+172.66.131.13,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,2946 kB/s
+37.46.19.79,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,258 ms,2945 kB/s
+185.203.240.129,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,234 ms,2944 kB/s
+162.19.66.30,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,186 ms,2943 kB/s
+212.118.40.20,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,287 ms,2939 kB/s
+213.21.241.21,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,255 ms,2939 kB/s
+91.84.106.209,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,2939 kB/s
+193.124.188.231,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,173 ms,2934 kB/s
+162.19.243.52,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,2924 kB/s
+172.66.132.42,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,2924 kB/s
+84.32.44.80,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,201 ms,2920 kB/s
+104.167.196.124,2053,true,MIA,US,North America,Miami,北美洲,美国,迈阿密,🇺🇸,259 ms,2917 kB/s
+5.101.180.125,2053,true,TLL,EE,Europe,Tallinn,欧洲,爱沙尼亚,塔林,🇪🇪,247 ms,2909 kB/s
+185.106.94.31,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,2890 kB/s
+49.238.237.12,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,2877 kB/s
+65.109.191.244,8443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,187 ms,2875 kB/s
+194.113.37.242,2053,true,MCI,US,North America,Kansas City,北美洲,美国,堪萨斯城,🇺🇸,229 ms,2873 kB/s
+172.66.132.12,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,2872 kB/s
+172.66.130.149,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,188 ms,2865 kB/s
+81.31.244.79,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,260 ms,2863 kB/s
+212.34.146.68,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,2851 kB/s
+109.120.179.49,8443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,245 ms,2847 kB/s
+77.238.253.183,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,246 ms,2844 kB/s
+141.94.220.57,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,198 ms,2841 kB/s
+206.237.26.89,5678,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,55 ms,2834 kB/s
+94.130.177.142,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,2829 kB/s
+45.136.198.114,2053,true,FRA,BG,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,207 ms,2827 kB/s
+185.207.133.240,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,254 ms,2827 kB/s
+217.144.190.129,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,2822 kB/s
+172.66.132.93,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,196 ms,2821 kB/s
+62.60.216.113,8433,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,254 ms,2800 kB/s
+46.30.46.103,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,220 ms,2794 kB/s
+168.119.63.191,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,2793 kB/s
+150.241.105.32,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,278 ms,2790 kB/s
+84.247.166.22,443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,249 ms,2788 kB/s
+88.218.78.162,8443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,239 ms,2787 kB/s
+65.109.201.6,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,195 ms,2786 kB/s
+46.226.162.84,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,297 ms,2784 kB/s
+91.107.128.233,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,2781 kB/s
+89.110.110.9,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,259 ms,2776 kB/s
+158.180.49.11,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,170 ms,2770 kB/s
+83.147.216.221,443,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,711 ms,2770 kB/s
+49.238.237.111,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,2759 kB/s
+172.66.131.195,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,2757 kB/s
+49.238.237.92,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,181 ms,2748 kB/s
+5.255.116.61,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,182 ms,2747 kB/s
+31.15.18.56,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,229 ms,2730 kB/s
+109.248.162.61,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,231 ms,2724 kB/s
+49.13.171.76,8444,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,2724 kB/s
+172.66.131.229,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,163 ms,2708 kB/s
+89.110.82.19,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,255 ms,2705 kB/s
+212.34.150.194,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,253 ms,2704 kB/s
+62.60.149.154,443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,273 ms,2702 kB/s
+85.192.49.71,443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,271 ms,2701 kB/s
+164.92.157.131,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,2699 kB/s
+64.188.97.78,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,256 ms,2698 kB/s
+57.129.63.37,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,2698 kB/s
+51.75.70.31,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,2693 kB/s
+89.110.122.18,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,286 ms,2686 kB/s
+213.183.51.29,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,203 ms,2682 kB/s
+172.66.132.118,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,2671 kB/s
+2.56.213.131,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,230 ms,2670 kB/s
+150.241.108.29,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,256 ms,2669 kB/s
+141.11.45.152,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,2667 kB/s
+5.35.70.24,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,259 ms,2659 kB/s
+185.237.185.110,2053,true,VNO,LT,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,216 ms,2657 kB/s
+62.60.148.208,443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,2653 kB/s
+141.94.221.189,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,174 ms,2651 kB/s
+172.66.129.86,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,2639 kB/s
+172.66.132.93,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,201 ms,2638 kB/s
+138.68.127.50,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,252 ms,2638 kB/s
+176.97.70.51,2053,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,286 ms,2638 kB/s
+62.84.98.210,443,true,LHR,NL,Europe,London,欧洲,英国,伦敦,🇬🇧,249 ms,2635 kB/s
+46.30.47.209,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,226 ms,2630 kB/s
+89.169.34.61,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,333 ms,2626 kB/s
+172.66.132.52,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,2625 kB/s
+45.145.43.205,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,188 ms,2623 kB/s
+167.88.160.144,8443,true,DFW,US,North America,Dallas,北美洲,美国,达拉斯,🇺🇸,231 ms,2622 kB/s
+209.141.61.191,443,true,LAS,US,North America,Las Vegas,北美洲,美国,拉斯维加斯,🇺🇸,192 ms,2621 kB/s
+94.177.8.43,131,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,254 ms,2603 kB/s
+212.34.141.125,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,290 ms,2603 kB/s
+141.94.220.64,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,195 ms,2599 kB/s
+94.177.8.122,2053,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,252 ms,2597 kB/s
+45.154.98.100,1010,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,221 ms,2593 kB/s
+51.91.102.163,2053,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,2590 kB/s
+172.66.132.107,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,2585 kB/s
+172.66.132.92,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,2584 kB/s
+141.94.205.202,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,182 ms,2583 kB/s
+91.211.249.112,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,263 ms,2582 kB/s
+172.66.130.253,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,2569 kB/s
+62.113.200.221,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,238 ms,2566 kB/s
+46.8.229.222,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,187 ms,2559 kB/s
+46.226.167.112,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,294 ms,2557 kB/s
+185.193.31.234,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,2554 kB/s
+45.12.69.152,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,229 ms,2552 kB/s
+94.131.114.54,2053,true,TLV,IL,Middle East,Tel Aviv,中东,以色列,特拉维夫,🇮🇱,243 ms,2550 kB/s
+188.166.43.205,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,317 ms,2549 kB/s
+144.126.132.39,8443,true,ORD,US,North America,Chicago,北美洲,美国,芝加哥,🇺🇸,267 ms,2548 kB/s
+172.66.129.130,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,196 ms,2548 kB/s
+194.246.81.62,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,290 ms,2545 kB/s
+5.187.0.176,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,255 ms,2537 kB/s
+84.54.44.58,2053,true,DME,RU,Europe,Moscow,欧洲,俄罗斯联邦,莫斯科,🇷🇺,216 ms,2536 kB/s
+37.1.194.153,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,293 ms,2528 kB/s
+141.94.220.157,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,182 ms,2519 kB/s
+212.34.128.155,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,2518 kB/s
+192.99.252.243,2053,true,YYZ,CA,North America,Toronto,北美洲,加拿大,多伦多,🇨🇦,258 ms,2517 kB/s
+193.33.194.42,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,298 ms,2512 kB/s
+212.34.137.231,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,288 ms,2511 kB/s
+185.207.133.252,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,256 ms,2510 kB/s
+104.234.50.221,443,true,IAD,US,North America,Ashburn,北美洲,美国,阿什本,🇺🇸,262 ms,2501 kB/s
+45.90.13.61,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,300 ms,2500 kB/s
+141.94.204.212,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,181 ms,2497 kB/s
+147.45.196.240,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,259 ms,2495 kB/s
+212.34.151.109,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,2478 kB/s
+172.66.131.191,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,170 ms,2475 kB/s
+217.144.190.230,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,254 ms,2469 kB/s
+109.107.172.27,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,246 ms,2463 kB/s
+185.245.105.88,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,309 ms,2460 kB/s
+152.53.12.231,5003,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,218 ms,2456 kB/s
+95.215.8.63,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,276 ms,2454 kB/s
+89.110.125.232,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,2450 kB/s
+172.66.132.11,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,199 ms,2449 kB/s
+147.45.77.151,8443,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,234 ms,2445 kB/s
+176.124.203.63,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,246 ms,2445 kB/s
+79.137.199.231,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,246 ms,2445 kB/s
+77.73.131.168,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,294 ms,2436 kB/s
+77.238.235.154,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,249 ms,2433 kB/s
+89.110.120.140,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,288 ms,2426 kB/s
+109.120.179.219,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,256 ms,2421 kB/s
+31.210.170.132,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,258 ms,2416 kB/s
+194.87.245.135,8443,true,DUB,IE,Europe,Dublin,欧洲,爱尔兰,都柏林,🇮🇪,297 ms,2415 kB/s
+91.219.237.49,443,true,BUD,HU,Europe,Budapest,欧洲,匈牙利,布达佩斯,🇭🇺,194 ms,2414 kB/s
+89.22.227.234,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,317 ms,2412 kB/s
+194.246.82.9,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,2410 kB/s
+104.238.180.202,21230,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,179 ms,2401 kB/s
+194.53.54.84,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,209 ms,2398 kB/s
+51.195.40.121,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,2398 kB/s
+103.249.133.159,443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,250 ms,2391 kB/s
+38.180.143.51,2053,true,FRA,AT,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,2387 kB/s
+185.141.61.113,443,true,SOF,BG,Europe,Sofia,欧洲,保加利亚,索非亚,🇧🇬,249 ms,2386 kB/s
+93.183.126.165,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,295 ms,2373 kB/s
+45.154.98.230,4001,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,226 ms,2369 kB/s
+46.8.229.218,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,226 ms,2367 kB/s
+89.110.118.72,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,291 ms,2366 kB/s
+45.154.98.100,5004,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,2363 kB/s
+5.187.0.73,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,246 ms,2361 kB/s
+165.232.129.138,443,true,SJC,US,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,177 ms,2350 kB/s
+213.183.59.144,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,219 ms,2348 kB/s
+91.84.101.192,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,252 ms,2348 kB/s
+85.192.28.150,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,240 ms,2346 kB/s
+5.34.214.11,8445,true,ARN,LV,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,285 ms,2339 kB/s
+188.245.46.127,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,2335 kB/s
+103.35.190.104,8443,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,248 ms,2335 kB/s
+212.111.81.57,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,287 ms,2333 kB/s
+188.253.25.201,10022,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,221 ms,2333 kB/s
+89.105.223.93,8443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,259 ms,2333 kB/s
+172.233.195.154,80,true,IAD,US,North America,Ashburn,北美洲,美国,阿什本,🇺🇸,249 ms,2331 kB/s
+46.8.233.177,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,208 ms,2330 kB/s
+51.195.45.137,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,2328 kB/s
+45.14.165.234,443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,202 ms,2321 kB/s
+195.200.19.246,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,2317 kB/s
+49.238.239.18,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms,2317 kB/s
+94.177.8.50,443,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,276 ms,2316 kB/s
+104.234.50.12,8443,true,IAD,US,North America,Ashburn,北美洲,美国,阿什本,🇺🇸,277 ms,2307 kB/s
+212.34.155.252,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,294 ms,2302 kB/s
+172.66.129.95,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,2296 kB/s
+185.216.177.197,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,2295 kB/s
+49.238.237.57,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,2286 kB/s
+45.14.244.233,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,225 ms,2282 kB/s
+38.180.132.68,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,182 ms,2281 kB/s
+57.129.5.82,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,2275 kB/s
+91.149.219.230,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,205 ms,2272 kB/s
+89.185.85.105,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,273 ms,2271 kB/s
+195.200.19.132,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,252 ms,2267 kB/s
+172.66.129.204,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,165 ms,2265 kB/s
+89.110.69.165,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,255 ms,2254 kB/s
+5.35.70.24,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,253 ms,2254 kB/s
+51.195.107.5,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,161 ms,2247 kB/s
+51.75.68.232,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,2241 kB/s
+146.59.232.246,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,181 ms,2235 kB/s
+5.182.86.227,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,252 ms,2234 kB/s
+147.45.74.28,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,306 ms,2233 kB/s
+148.113.200.194,8443,true,YYZ,CA,North America,Toronto,北美洲,加拿大,多伦多,🇨🇦,290 ms,2223 kB/s
+213.21.241.127,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,2221 kB/s
+31.15.16.212,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,238 ms,2216 kB/s
+89.208.107.154,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,258 ms,2213 kB/s
+141.193.213.21,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,190 ms,2204 kB/s
+57.129.63.155,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,2201 kB/s
+91.84.99.166,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,288 ms,2194 kB/s
+45.63.100.255,8443,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,262 ms,2193 kB/s
+212.118.39.50,2053,true,DME,NL,Europe,Moscow,欧洲,俄罗斯联邦,莫斯科,🇷🇺,290 ms,2186 kB/s
+94.177.8.5,444,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,270 ms,2177 kB/s
+91.192.102.170,2053,true,ZRH,CH,Europe,Zurich,欧洲,瑞士,苏黎世,🇨🇭,263 ms,2175 kB/s
+185.121.233.87,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,286 ms,2173 kB/s
+31.128.37.116,2053,true,ARN,RU,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,234 ms,2171 kB/s
+5.182.86.12,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,299 ms,2162 kB/s
+172.66.131.225,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,2158 kB/s
+5.75.165.246,8083,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,2155 kB/s
+5.252.118.210,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,261 ms,2151 kB/s
+45.43.89.212,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,2151 kB/s
+147.45.48.209,2053,true,KJA,RU,Asia Pacific,Krasnoyarsk,亚洲,俄罗斯联邦,克拉斯诺亚尔斯克,🇷🇺,255 ms,2146 kB/s
+77.221.143.56,8443,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,272 ms,2136 kB/s
+89.150.59.115,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,268 ms,2131 kB/s
+188.253.27.190,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,258 ms,2130 kB/s
+89.39.120.83,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,210 ms,2130 kB/s
+43.155.186.100,446,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,256 ms,2128 kB/s
+185.174.137.247,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,273 ms,2125 kB/s
+91.107.140.10,8880,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,2122 kB/s
+212.113.102.199,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,263 ms,2119 kB/s
+103.74.92.89,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,308 ms,2116 kB/s
+172.66.128.143,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,2114 kB/s
+46.17.100.28,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,262 ms,2113 kB/s
+46.29.239.56,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,184 ms,2112 kB/s
+51.38.48.190,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,180 ms,2108 kB/s
+185.184.122.201,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,259 ms,2107 kB/s
+178.130.41.58,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,287 ms,2106 kB/s
+31.133.0.167,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,196 ms,2102 kB/s
+188.253.24.229,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,221 ms,2101 kB/s
+77.239.104.238,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,259 ms,2093 kB/s
+5.182.87.56,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,267 ms,2092 kB/s
+89.58.13.151,2010,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,228 ms,2070 kB/s
+162.19.243.46,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,2068 kB/s
+89.110.117.53,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,291 ms,2068 kB/s
+212.34.147.140,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,254 ms,2068 kB/s
+212.34.141.125,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,255 ms,2067 kB/s
+148.113.43.228,2053,true,BOM,IN,Asia Pacific,Mumbai,亚洲,印度,孟买,🇮🇳,219 ms,2064 kB/s
+77.246.100.187,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,295 ms,2063 kB/s
+51.195.40.121,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,2061 kB/s
+65.108.242.203,8443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,195 ms,2060 kB/s
+77.238.255.142,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,2059 kB/s
+45.89.55.200,8443,true,BEG,RS,Europe,Belgrade,欧洲,塞尔维亚,贝尔格莱德,🇷🇸,270 ms,2059 kB/s
+51.38.224.25,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,189 ms,2058 kB/s
+141.94.222.46,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,187 ms,2057 kB/s
+178.32.58.147,443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,203 ms,2056 kB/s
+78.40.117.186,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,303 ms,2054 kB/s
+82.115.4.109,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,225 ms,2052 kB/s
+188.245.46.127,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,2048 kB/s
+89.110.108.206,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,2048 kB/s
+195.200.19.244,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,249 ms,2038 kB/s
+49.238.238.164,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,186 ms,2033 kB/s
+91.103.253.162,8443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,249 ms,2024 kB/s
+172.66.131.223,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,2024 kB/s
+89.110.108.189,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,246 ms,2023 kB/s
+77.246.105.38,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,291 ms,2022 kB/s
+212.34.152.202,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,256 ms,2022 kB/s
+89.110.73.182,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,288 ms,2022 kB/s
+172.66.129.120,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,2017 kB/s
+193.37.70.17,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,249 ms,2015 kB/s
+138.124.102.236,443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,269 ms,2008 kB/s
+172.66.131.14,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,2006 kB/s
+93.185.163.170,2087,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,225 ms,2005 kB/s
+185.239.70.41,15555,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,2003 kB/s
+212.34.143.181,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,255 ms,2002 kB/s
+172.66.128.96,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,1996 kB/s
+89.22.232.81,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,239 ms,1994 kB/s
+46.253.4.51,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,279 ms,1986 kB/s
+89.208.97.213,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,296 ms,1980 kB/s
+150.241.105.74,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,1976 kB/s
+212.118.52.236,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,290 ms,1975 kB/s
+51.75.16.244,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,182 ms,1972 kB/s
+5.187.5.101,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,248 ms,1956 kB/s
+95.182.97.125,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,196 ms,1955 kB/s
+51.38.49.23,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,166 ms,1949 kB/s
+78.153.136.26,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,298 ms,1948 kB/s
+212.34.133.225,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,290 ms,1939 kB/s
+172.66.129.52,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,1925 kB/s
+45.8.132.142,443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,253 ms,1923 kB/s
+172.66.130.239,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,1923 kB/s
+185.36.143.175,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,263 ms,1921 kB/s
+45.154.35.30,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,232 ms,1921 kB/s
+31.210.170.49,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,258 ms,1916 kB/s
+81.19.137.189,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,252 ms,1914 kB/s
+195.200.17.214,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,251 ms,1914 kB/s
+37.220.84.186,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,247 ms,1909 kB/s
+77.221.155.235,8420,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,259 ms,1907 kB/s
+89.110.103.179,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,302 ms,1900 kB/s
+109.120.139.194,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,246 ms,1898 kB/s
+5.34.211.29,8443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,309 ms,1888 kB/s
+93.185.163.220,4010,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,232 ms,1888 kB/s
+185.51.246.121,2053,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,258 ms,1877 kB/s
+109.169.76.23,443,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,269 ms,1876 kB/s
+70.34.252.171,8443,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,329 ms,1873 kB/s
+195.245.239.128,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,289 ms,1872 kB/s
+37.27.199.6,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,189 ms,1871 kB/s
+172.66.135.21,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,1870 kB/s
+77.221.141.52,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,266 ms,1870 kB/s
+89.169.33.217,443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,286 ms,1865 kB/s
+57.129.47.36,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,1857 kB/s
+194.99.20.245,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,255 ms,1850 kB/s
+89.110.71.35,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,290 ms,1836 kB/s
+92.42.96.240,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,1834 kB/s
+188.253.25.96,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,260 ms,1832 kB/s
+79.137.206.80,443,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,271 ms,1831 kB/s
+147.78.140.39,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms,1830 kB/s
+217.144.187.140,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,291 ms,1829 kB/s
+141.94.222.105,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,188 ms,1822 kB/s
+188.225.73.242,2053,true,DME,RU,Europe,Moscow,欧洲,俄罗斯联邦,莫斯科,🇷🇺,220 ms,1812 kB/s
+178.255.222.43,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,230 ms,1812 kB/s
+172.86.106.68,2053,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,277 ms,1811 kB/s
+87.251.87.249,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,252 ms,1807 kB/s
+199.119.137.41,8443,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,241 ms,1804 kB/s
+146.59.232.90,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,194 ms,1803 kB/s
+194.164.33.2,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,1802 kB/s
+212.113.102.118,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,262 ms,1802 kB/s
+107.172.137.69,2053,true,BUF,US,North America,Buffalo,北美洲,美国,布法罗,🇺🇸,234 ms,1801 kB/s
+45.87.2.60,2053,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,227 ms,1799 kB/s
+77.83.86.169,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,243 ms,1799 kB/s
+167.99.140.246,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,262 ms,1798 kB/s
+172.66.128.187,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,1792 kB/s
+5.34.212.128,443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,316 ms,1788 kB/s
+209.38.187.36,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,240 ms,1780 kB/s
+141.11.218.249,8080,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,361 ms,1779 kB/s
+185.245.106.179,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,296 ms,1762 kB/s
+94.177.8.10,131,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,263 ms,1761 kB/s
+216.173.69.115,8443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,314 ms,1759 kB/s
+185.247.18.250,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,255 ms,1757 kB/s
+150.241.108.188,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,256 ms,1748 kB/s
+49.238.237.51,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,177 ms,1748 kB/s
+194.146.39.128,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,264 ms,1742 kB/s
+89.110.109.91,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,294 ms,1738 kB/s
+172.66.136.60,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,1736 kB/s
+172.66.131.18,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,201 ms,1734 kB/s
+92.118.10.102,2053,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,243 ms,1733 kB/s
+49.238.237.51,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,184 ms,1731 kB/s
+152.70.253.84,8443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,315 ms,1731 kB/s
+46.8.229.109,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,229 ms,1728 kB/s
+80.85.246.166,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,291 ms,1719 kB/s
+94.142.138.123,443,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,256 ms,1710 kB/s
+65.109.12.58,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,225 ms,1710 kB/s
+194.246.81.62,2501,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,326 ms,1707 kB/s
+89.110.101.122,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,259 ms,1702 kB/s
+213.142.146.112,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,182 ms,1694 kB/s
+172.66.132.41,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,188 ms,1689 kB/s
+49.238.238.147,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,1686 kB/s
+194.116.217.120,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,195 ms,1682 kB/s
+193.219.97.146,8443,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,254 ms,1680 kB/s
+150.241.105.163,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,268 ms,1678 kB/s
+176.124.206.114,12463,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,258 ms,1677 kB/s
+45.143.200.19,443,true,ZRH,CH,Europe,Zurich,欧洲,瑞士,苏黎世,🇨🇭,246 ms,1670 kB/s
+172.66.130.158,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,1666 kB/s
+194.164.235.176,443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,283 ms,1662 kB/s
+194.104.136.189,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,261 ms,1660 kB/s
+77.238.235.154,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,284 ms,1660 kB/s
+5.61.42.254,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,291 ms,1654 kB/s
+57.129.16.155,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,163 ms,1645 kB/s
+116.93.199.28,12136,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,113 ms,1643 kB/s
+91.186.218.173,443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,270 ms,1640 kB/s
+89.58.13.151,1010,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,239 ms,1638 kB/s
+213.183.61.100,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,207 ms,1631 kB/s
+89.169.9.177,8443,true,DUS,DE,Europe,Düsseldorf,欧洲,德国,杜塞尔多夫,🇩🇪,190 ms,1627 kB/s
+64.188.97.68,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,255 ms,1625 kB/s
+195.211.124.216,51106,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,227 ms,1620 kB/s
+89.110.87.31,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,1618 kB/s
+94.177.8.21,444,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,261 ms,1616 kB/s
+185.213.208.87,2053,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,261 ms,1612 kB/s
+171.22.114.27,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,202 ms,1609 kB/s
+80.211.205.173,8443,true,PRG,CZ,Europe,Prague,欧洲,捷克共和国,布拉格,🇨🇿,201 ms,1607 kB/s
+57.129.5.105,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,1607 kB/s
+45.95.174.117,2020,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,260 ms,1596 kB/s
+85.192.61.91,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,288 ms,1590 kB/s
+93.183.126.153,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,250 ms,1585 kB/s
+195.226.194.191,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,266 ms,1584 kB/s
+91.108.241.188,443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,260 ms,1583 kB/s
+51.91.102.163,8443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,170 ms,1582 kB/s
+113.30.190.30,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,265 ms,1578 kB/s
+142.171.157.98,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,180 ms,1577 kB/s
+91.198.166.223,443,true,PRG,PL,Europe,Prague,欧洲,捷克共和国,布拉格,🇨🇿,202 ms,1572 kB/s
+94.177.8.26,443,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,249 ms,1568 kB/s
+51.158.204.139,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,155 ms,1567 kB/s
+172.66.130.160,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,1564 kB/s
+172.66.129.60,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,1558 kB/s
+194.87.222.145,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,310 ms,1555 kB/s
+138.124.182.204,443,true,RIX,LV,Europe,Riga,欧洲,拉脱维亚,里加,🇱🇻,206 ms,1554 kB/s
+212.111.88.14,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,288 ms,1549 kB/s
+89.110.121.235,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,286 ms,1548 kB/s
+147.45.73.230,8443,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,320 ms,1545 kB/s
+91.107.139.23,7002,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,1543 kB/s
+93.152.217.56,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,232 ms,1543 kB/s
+95.216.68.172,10021,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,217 ms,1539 kB/s
+188.132.192.194,2053,true,IST,TR,Europe,Istanbul,欧洲,土耳其,伊斯坦布尔,🇹🇷,218 ms,1538 kB/s
+212.34.128.155,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,284 ms,1537 kB/s
+172.66.131.29,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,1535 kB/s
+51.195.44.192,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,199 ms,1529 kB/s
+79.137.198.44,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,248 ms,1526 kB/s
+185.184.123.201,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,263 ms,1525 kB/s
+2.59.38.185,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,189 ms,1524 kB/s
+23.137.249.204,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,226 ms,1523 kB/s
+193.56.3.47,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,345 ms,1518 kB/s
+89.110.87.114,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,1516 kB/s
+212.34.146.47,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,283 ms,1514 kB/s
+167.235.149.67,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,1514 kB/s
+51.15.16.16,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,168 ms,1513 kB/s
+159.69.4.145,2096,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,1511 kB/s
+77.239.121.200,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,1509 kB/s
+95.164.2.113,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,207 ms,1506 kB/s
+57.129.47.11,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,168 ms,1504 kB/s
+49.238.239.16,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,192 ms,1501 kB/s
+85.28.47.171,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,242 ms,1497 kB/s
+49.238.238.162,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,171 ms,1490 kB/s
+193.233.87.41,2053,true,DFW,US,North America,Dallas,北美洲,美国,达拉斯,🇺🇸,231 ms,1489 kB/s
+141.193.213.30,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,1480 kB/s
+107.172.201.15,8443,true,DFW,US,North America,Dallas,北美洲,美国,达拉斯,🇺🇸,230 ms,1480 kB/s
+91.84.101.135,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,254 ms,1477 kB/s
+45.147.51.109,12321,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,245 ms,1475 kB/s
+91.84.97.63,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,287 ms,1474 kB/s
+109.120.132.127,8443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,235 ms,1471 kB/s
+188.116.23.147,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,182 ms,1470 kB/s
+94.177.8.50,131,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,289 ms,1469 kB/s
+49.13.171.76,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,1469 kB/s
+212.34.147.128,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,1464 kB/s
+57.129.47.11,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,1462 kB/s
+57.129.14.93,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,1461 kB/s
+185.190.250.99,443,true,SOF,BG,Europe,Sofia,欧洲,保加利亚,索非亚,🇧🇬,281 ms,1456 kB/s
+89.110.112.8,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,284 ms,1454 kB/s
+45.114.61.224,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,259 ms,1444 kB/s
+95.182.99.170,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,213 ms,1441 kB/s
+109.120.158.109,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,286 ms,1433 kB/s
+89.19.211.109,8443,true,AMS,DE,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,280 ms,1428 kB/s
+95.182.99.170,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,211 ms,1427 kB/s
+135.125.191.180,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,1420 kB/s
+77.91.70.171,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,353 ms,1414 kB/s
+45.143.200.162,443,true,ZRH,CH,Europe,Zurich,欧洲,瑞士,苏黎世,🇨🇭,256 ms,1411 kB/s
+217.144.187.169,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,1410 kB/s
+185.121.232.7,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,251 ms,1407 kB/s
+213.21.222.249,443,true,RIX,LV,Europe,Riga,欧洲,拉脱维亚,里加,🇱🇻,213 ms,1401 kB/s
+5.35.68.152,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,251 ms,1401 kB/s
+46.17.101.177,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,262 ms,1400 kB/s
+176.124.206.114,10024,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,257 ms,1398 kB/s
+77.246.110.179,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,1385 kB/s
+45.154.35.30,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,221 ms,1382 kB/s
+109.120.184.227,443,true,FRA,RU,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,275 ms,1381 kB/s
+195.246.230.125,443,true,KEF,IS,Europe,Reykjavík,欧洲,冰岛,雷克雅未克,🇮🇸,322 ms,1377 kB/s
+212.34.141.73,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,285 ms,1366 kB/s
+57.129.63.154,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,1361 kB/s
+77.238.238.133,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,287 ms,1360 kB/s
+146.59.153.77,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,205 ms,1359 kB/s
+172.66.130.214,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,1355 kB/s
+64.188.97.233,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,254 ms,1352 kB/s
+51.75.18.158,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,197 ms,1345 kB/s
+94.228.164.233,8443,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,272 ms,1344 kB/s
+46.30.42.248,2002,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,257 ms,1341 kB/s
+62.84.183.222,443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,1340 kB/s
+51.38.51.190,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,192 ms,1334 kB/s
+192.76.150.94,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,264 ms,1331 kB/s
+77.221.138.90,8443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,270 ms,1331 kB/s
+91.84.100.152,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,295 ms,1331 kB/s
+103.249.135.65,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,272 ms,1327 kB/s
+193.233.133.76,8443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,249 ms,1324 kB/s
+185.126.117.13,21232,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,198 ms,1322 kB/s
+162.19.254.52,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,1309 kB/s
+57.129.63.42,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,216 ms,1308 kB/s
+45.155.7.100,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,218 ms,1306 kB/s
+45.129.78.143,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,287 ms,1299 kB/s
+5.35.47.30,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,257 ms,1299 kB/s
+89.42.142.187,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,265 ms,1299 kB/s
+82.214.178.83,10029,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,195 ms,1297 kB/s
+62.60.217.113,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,246 ms,1297 kB/s
+89.110.115.200,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,295 ms,1295 kB/s
+212.111.81.57,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,285 ms,1295 kB/s
+88.99.189.60,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,1291 kB/s
+162.19.242.211,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,1286 kB/s
+91.84.105.79,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,249 ms,1278 kB/s
+94.177.199.119,2053,true,FCO,IT,Europe,Rome,欧洲,意大利,罗马,🇮🇹,267 ms,1272 kB/s
+141.94.220.157,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,174 ms,1266 kB/s
+51.38.227.155,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,182 ms,1254 kB/s
+193.233.232.82,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,1250 kB/s
+166.1.201.112,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,225 ms,1250 kB/s
+45.154.98.100,4002,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,230 ms,1248 kB/s
+45.150.65.39,8443,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,245 ms,1238 kB/s
+147.45.248.214,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,285 ms,1237 kB/s
+88.119.169.210,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,261 ms,1231 kB/s
+159.255.32.196,443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,230 ms,1227 kB/s
+185.88.140.78,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,203 ms,1210 kB/s
+89.110.78.108,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,294 ms,1210 kB/s
+45.132.1.208,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,250 ms,1209 kB/s
+103.54.18.18,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,267 ms,1208 kB/s
+49.13.153.123,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,1198 kB/s
+162.19.242.212,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,194 ms,1198 kB/s
+45.67.216.25,8443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,269 ms,1195 kB/s
+45.11.183.132,443,true,TLL,EE,Europe,Tallinn,欧洲,爱沙尼亚,塔林,🇪🇪,320 ms,1195 kB/s
+194.87.82.242,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,170 ms,1185 kB/s
+185.21.14.128,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,291 ms,1185 kB/s
+194.87.216.104,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,1184 kB/s
+5.61.44.169,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,295 ms,1170 kB/s
+54.36.98.158,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,171 ms,1165 kB/s
+38.180.225.181,443,true,BUD,HU,Europe,Budapest,欧洲,匈牙利,布达佩斯,🇭🇺,191 ms,1163 kB/s
+65.109.240.190,8443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,205 ms,1159 kB/s
+141.94.207.7,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,209 ms,1158 kB/s
+5.75.134.237,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,190 ms,1152 kB/s
+45.120.178.143,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,187 ms,1151 kB/s
+146.19.80.84,443,true,SOF,BG,Europe,Sofia,欧洲,保加利亚,索非亚,🇧🇬,251 ms,1151 kB/s
+95.142.41.108,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,1148 kB/s
+185.207.133.57,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,252 ms,1144 kB/s
+31.192.238.71,2053,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,385 ms,1139 kB/s
+77.221.154.100,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,252 ms,1138 kB/s
+188.227.85.144,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,252 ms,1134 kB/s
+89.208.96.101,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,263 ms,1124 kB/s
+92.51.47.199,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,301 ms,1121 kB/s
+199.119.137.109,2053,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,238 ms,1120 kB/s
+45.149.63.46,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,211 ms,1120 kB/s
+91.199.32.191,2053,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,192 ms,1118 kB/s
+45.95.232.203,8443,true,ZRH,CH,Europe,Zurich,欧洲,瑞士,苏黎世,🇨🇭,255 ms,1111 kB/s
+49.12.160.221,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,1110 kB/s
+141.94.207.153,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,179 ms,1108 kB/s
+185.51.246.125,2053,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,271 ms,1099 kB/s
+5.61.46.225,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,294 ms,1095 kB/s
+37.27.184.127,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,206 ms,1094 kB/s
+166.0.244.206,8443,true,BOM,IN,Asia Pacific,Mumbai,亚洲,印度,孟买,🇮🇳,349 ms,1086 kB/s
+194.26.192.125,1701,true,IST,TR,Europe,Istanbul,欧洲,土耳其,伊斯坦布尔,🇹🇷,266 ms,1083 kB/s
+80.85.246.166,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,247 ms,1080 kB/s
+185.148.106.47,8443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms,1076 kB/s
+116.203.122.202,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,1074 kB/s
+95.215.8.63,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,286 ms,1073 kB/s
+87.106.65.110,443,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,221 ms,1072 kB/s
+91.107.233.151,7443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,236 ms,1066 kB/s
+57.129.63.158,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,1064 kB/s
+47.130.35.116,8888,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,252 ms,1051 kB/s
+89.110.76.19,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,250 ms,1051 kB/s
+89.169.35.91,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,314 ms,1050 kB/s
+91.107.142.138,8080,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,1050 kB/s
+139.224.43.79,443,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,56 ms,1049 kB/s
+89.110.119.231,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,1049 kB/s
+109.176.198.153,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,249 ms,1047 kB/s
+91.242.163.220,443,true,BTS,SK,Europe,Bratislava,欧洲,斯洛伐克,布拉迪斯拉发,🇸🇰,274 ms,1030 kB/s
+141.94.68.162,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,176 ms,1028 kB/s
+45.157.233.208,8102,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,1027 kB/s
+78.40.117.50,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,317 ms,1017 kB/s
+193.70.0.78,8443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,1016 kB/s
+193.70.0.78,2053,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,199 ms,1014 kB/s
+77.91.70.242,443,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,274 ms,1013 kB/s
+91.84.104.248,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,301 ms,1010 kB/s
+185.211.170.101,8443,true,DME,RU,Europe,Moscow,欧洲,俄罗斯联邦,莫斯科,🇷🇺,256 ms,1010 kB/s
+37.1.194.178,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,297 ms,1010 kB/s
+172.66.130.115,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,1010 kB/s
+172.66.131.193,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,1001 kB/s
+162.19.227.28,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,999 kB/s
+158.101.214.54,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,219 ms,992 kB/s
+167.99.140.246,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,246 ms,990 kB/s
+91.215.153.85,443,true,SOF,BG,Europe,Sofia,欧洲,保加利亚,索非亚,🇧🇬,201 ms,988 kB/s
+212.34.142.100,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,987 kB/s
+45.95.80.223,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,987 kB/s
+212.23.211.83,1443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,271 ms,981 kB/s
+51.210.150.65,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,188 ms,976 kB/s
+194.247.182.247,8443,true,AMS,IS,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,298 ms,974 kB/s
+45.149.63.113,443,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,205 ms,965 kB/s
+185.186.26.153,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,254 ms,963 kB/s
+212.34.155.178,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,251 ms,962 kB/s
+188.253.24.229,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,266 ms,955 kB/s
+150.241.105.55,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,949 kB/s
+185.23.236.15,8443,true,TLL,EE,Europe,Tallinn,欧洲,爱沙尼亚,塔林,🇪🇪,330 ms,941 kB/s
+57.129.5.128,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,168 ms,938 kB/s
+65.109.209.55,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,202 ms,937 kB/s
+150.241.108.2,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,261 ms,934 kB/s
+51.91.102.36,2053,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,934 kB/s
+178.130.43.224,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,284 ms,932 kB/s
+193.56.8.103,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,225 ms,929 kB/s
+62.84.102.169,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,294 ms,926 kB/s
+202.61.200.220,8080,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,926 kB/s
+65.109.15.37,8443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,204 ms,926 kB/s
+45.149.63.67,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,205 ms,925 kB/s
+185.141.61.113,2053,true,SOF,BG,Europe,Sofia,欧洲,保加利亚,索非亚,🇧🇬,288 ms,922 kB/s
+135.125.190.13,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,164 ms,922 kB/s
+89.207.12.80,8443,true,FRA,TR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,289 ms,918 kB/s
+5.182.86.227,8443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,245 ms,910 kB/s
+217.144.187.140,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,305 ms,901 kB/s
+77.91.70.19,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,266 ms,900 kB/s
+172.66.130.253,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,897 kB/s
+198.98.54.187,8443,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,238 ms,895 kB/s
+38.180.18.247,2053,true,AMS,BE,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,222 ms,888 kB/s
+91.199.32.20,2053,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,186 ms,877 kB/s
+46.17.107.199,443,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,243 ms,873 kB/s
+94.228.164.233,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,305 ms,872 kB/s
+195.206.242.194,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,195 ms,871 kB/s
+61.245.11.69,2053,true,SIN,PH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,373 ms,869 kB/s
+188.166.81.37,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,300 ms,861 kB/s
+83.147.252.30,443,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,312 ms,860 kB/s
+139.59.152.149,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,858 kB/s
+51.75.20.138,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,196 ms,858 kB/s
+141.94.204.144,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,201 ms,857 kB/s
+185.244.218.27,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,224 ms,856 kB/s
+54.36.98.199,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,171 ms,855 kB/s
+3.29.76.68,443,true,DXB,AE,Middle East,Dubai,中东,阿拉伯联合酋长国,迪拜,🇦🇪,259 ms,848 kB/s
+178.253.23.199,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,251 ms,845 kB/s
+185.114.72.31,2053,true,MAD,ES,Europe,Madrid,欧洲,西班牙,马德里,🇪🇸,261 ms,842 kB/s
+162.19.243.46,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,837 kB/s
+152.53.117.18,2010,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,834 kB/s
+46.101.189.202,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,277 ms,833 kB/s
+94.131.13.224,443,true,VNO,LT,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,217 ms,827 kB/s
+90.156.228.74,2053,true,AMS,DE,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,244 ms,826 kB/s
+45.129.199.80,8443,true,TLL,EE,Europe,Tallinn,欧洲,爱沙尼亚,塔林,🇪🇪,327 ms,824 kB/s
+51.195.47.243,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,824 kB/s
+188.225.34.155,443,true,AMS,RU,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,229 ms,820 kB/s
+74.48.86.121,12222,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,197 ms,818 kB/s
+188.34.160.97,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,816 kB/s
+93.183.127.235,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,290 ms,815 kB/s
+77.238.225.185,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,252 ms,814 kB/s
+198.105.125.129,443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,215 ms,808 kB/s
+194.28.226.167,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,249 ms,805 kB/s
+65.109.12.58,8443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,195 ms,805 kB/s
+185.140.209.121,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,208 ms,801 kB/s
+78.40.117.23,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,312 ms,797 kB/s
+171.22.120.166,2053,true,DUS,DE,Europe,Düsseldorf,欧洲,德国,杜塞尔多夫,🇩🇪,180 ms,796 kB/s
+82.115.5.202,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,223 ms,795 kB/s
+135.125.234.148,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,791 kB/s
+91.103.253.162,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,296 ms,790 kB/s
+185.248.184.237,8443,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,311 ms,790 kB/s
+194.87.35.190,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,245 ms,784 kB/s
+45.81.225.153,8443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,261 ms,783 kB/s
+194.28.225.101,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,245 ms,780 kB/s
+51.195.40.4,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,178 ms,776 kB/s
+57.129.5.70,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,188 ms,774 kB/s
+45.88.67.37,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,277 ms,772 kB/s
+77.81.65.9,8443,true,ARN,DE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,206 ms,770 kB/s
+95.181.167.228,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,302 ms,767 kB/s
+185.209.162.229,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,224 ms,763 kB/s
+148.113.200.194,2053,true,YYZ,CA,North America,Toronto,北美洲,加拿大,多伦多,🇨🇦,261 ms,762 kB/s
+77.238.242.159,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,286 ms,759 kB/s
+51.75.20.138,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,187 ms,756 kB/s
+77.91.70.132,443,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,268 ms,749 kB/s
+195.135.252.27,2053,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,280 ms,748 kB/s
+146.19.254.80,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,305 ms,742 kB/s
+89.110.86.194,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,255 ms,739 kB/s
+185.209.162.2,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,220 ms,737 kB/s
+94.228.162.142,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,294 ms,736 kB/s
+138.124.59.110,443,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,265 ms,735 kB/s
+147.45.72.87,8443,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,229 ms,735 kB/s
+45.149.63.228,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,213 ms,734 kB/s
+216.173.69.115,2053,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,281 ms,732 kB/s
+38.180.209.40,8443,true,IST,TR,Europe,Istanbul,欧洲,土耳其,伊斯坦布尔,🇹🇷,235 ms,731 kB/s
+89.110.101.119,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,285 ms,731 kB/s
+185.114.72.148,443,true,MAD,ES,Europe,Madrid,欧洲,西班牙,马德里,🇪🇸,259 ms,728 kB/s
+45.134.21.8,2053,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,222 ms,728 kB/s
+212.34.152.212,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,297 ms,725 kB/s
+141.95.127.113,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,724 kB/s
+109.234.39.115,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,255 ms,723 kB/s
+51.15.101.105,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,155 ms,722 kB/s
+172.66.131.162,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,720 kB/s
+95.181.162.21,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,274 ms,719 kB/s
+212.34.134.37,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,250 ms,718 kB/s
+95.217.176.149,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,199 ms,718 kB/s
+83.229.82.124,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,717 kB/s
+5.187.4.103,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,710 kB/s
+193.124.41.165,8443,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,307 ms,705 kB/s
+45.140.146.80,8443,true,KIV,MD,Europe,Chișinău,欧洲,摩尔多瓦共和国,基希讷乌,🇲🇩,209 ms,704 kB/s
+45.144.49.77,8443,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,279 ms,702 kB/s
+109.234.35.228,8443,true,DME,NL,Europe,Moscow,欧洲,俄罗斯联邦,莫斯科,🇷🇺,255 ms,700 kB/s
+213.142.147.101,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,236 ms,694 kB/s
+89.110.73.241,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,694 kB/s
+37.128.204.4,8443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,261 ms,694 kB/s
+46.36.221.147,2053,true,TLL,EE,Europe,Tallinn,欧洲,爱沙尼亚,塔林,🇪🇪,213 ms,690 kB/s
+49.238.239.19,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,689 kB/s
+212.34.131.236,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,243 ms,688 kB/s
+94.177.8.48,443,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,305 ms,687 kB/s
+94.131.105.101,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,212 ms,685 kB/s
+83.219.250.141,443,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,237 ms,683 kB/s
+135.125.234.160,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,683 kB/s
+91.199.32.11,2053,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,182 ms,680 kB/s
+195.133.17.188,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,253 ms,671 kB/s
+185.230.163.33,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,257 ms,668 kB/s
+45.61.137.103,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,257 ms,668 kB/s
+194.87.199.246,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,666 kB/s
+146.190.108.84,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,366 ms,666 kB/s
+193.122.100.41,8443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,329 ms,664 kB/s
+45.146.202.223,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,255 ms,664 kB/s
+46.8.229.84,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,236 ms,657 kB/s
+45.86.86.53,443,true,OTP,MD,Europe,Bucharest,欧洲,罗马尼亚,布加勒斯特,🇷🇴,210 ms,652 kB/s
+38.180.72.65,8443,true,CPH,DK,Europe,Copenhagen,欧洲,丹麦,哥本哈根,🇩🇰,260 ms,651 kB/s
+54.36.99.75,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,189 ms,651 kB/s
+5.178.106.135,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,201 ms,647 kB/s
+143.198.196.196,2053,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,349 ms,641 kB/s
+51.195.42.9,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,194 ms,638 kB/s
+143.198.196.196,8443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,368 ms,637 kB/s
+64.225.68.70,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,297 ms,636 kB/s
+89.110.113.214,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,283 ms,632 kB/s
+195.133.39.232,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,305 ms,628 kB/s
+152.70.143.65,2053,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,251 ms,627 kB/s
+185.106.94.243,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,262 ms,625 kB/s
+212.34.148.220,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,624 kB/s
+188.132.232.192,2053,true,IST,TR,Europe,Istanbul,欧洲,土耳其,伊斯坦布尔,🇹🇷,311 ms,624 kB/s
+46.8.68.139,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,226 ms,614 kB/s
+45.133.216.25,2053,true,RIX,LV,Europe,Riga,欧洲,拉脱维亚,里加,🇱🇻,261 ms,610 kB/s
+185.230.162.90,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,255 ms,607 kB/s
+78.153.136.10,443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,248 ms,603 kB/s
+95.164.87.35,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,185 ms,595 kB/s
+46.17.97.207,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,259 ms,592 kB/s
+38.180.99.183,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,234 ms,586 kB/s
+212.34.143.57,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,583 kB/s
+38.180.44.99,443,true,TLL,EE,Europe,Tallinn,欧洲,爱沙尼亚,塔林,🇪🇪,299 ms,580 kB/s
+84.32.44.218,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,195 ms,579 kB/s
+162.55.187.121,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,571 kB/s
+77.73.67.35,2053,true,ARN,RU,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,279 ms,571 kB/s
+194.87.44.84,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,247 ms,569 kB/s
+2.57.242.22,443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,294 ms,569 kB/s
+91.84.107.137,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,290 ms,566 kB/s
+185.186.245.22,81,true,DFW,US,North America,Dallas,北美洲,美国,达拉斯,🇺🇸,263 ms,565 kB/s
+195.206.242.215,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,565 kB/s
+109.107.172.63,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,290 ms,565 kB/s
+14.21.7.146,18888,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,207 ms,560 kB/s
+45.144.51.79,8443,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,298 ms,559 kB/s
+89.208.97.204,443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,306 ms,552 kB/s
+172.66.134.30,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,551 kB/s
+146.19.254.80,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,551 kB/s
+162.19.246.53,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,548 kB/s
+38.180.99.178,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,226 ms,546 kB/s
+185.211.170.101,2053,true,DME,RU,Europe,Moscow,欧洲,俄罗斯联邦,莫斯科,🇷🇺,216 ms,545 kB/s
+212.113.106.40,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,296 ms,544 kB/s
+77.238.239.41,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,298 ms,544 kB/s
+188.116.23.147,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,180 ms,540 kB/s
+194.87.222.146,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,299 ms,539 kB/s
+185.239.142.83,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,226 ms,536 kB/s
+103.106.1.71,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,254 ms,536 kB/s
+79.137.198.151,4433,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,282 ms,534 kB/s
+91.84.103.79,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,249 ms,534 kB/s
+193.164.155.8,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,204 ms,533 kB/s
+83.138.55.252,2053,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,302 ms,532 kB/s
+57.129.16.72,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,531 kB/s
+95.181.167.206,443,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,241 ms,530 kB/s
+89.110.83.5,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,300 ms,529 kB/s
+146.59.233.3,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,184 ms,523 kB/s
+194.0.194.71,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,214 ms,522 kB/s
+146.59.225.19,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,229 ms,521 kB/s
+31.59.185.123,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,188 ms,520 kB/s
+51.178.207.109,443,true,AMS,FR,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,171 ms,520 kB/s
+37.27.179.22,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,183 ms,519 kB/s
+193.56.3.47,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,302 ms,517 kB/s
+185.188.181.218,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,248 ms,515 kB/s
+31.58.137.6,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,193 ms,514 kB/s
+138.68.141.220,2053,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,261 ms,512 kB/s
+83.138.55.252,8443,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,269 ms,509 kB/s
+82.115.5.157,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,266 ms,508 kB/s
+45.154.35.151,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,219 ms,507 kB/s
+107.175.193.134,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,332 ms,505 kB/s
+212.34.131.18,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,283 ms,503 kB/s
+80.211.250.20,2053,true,FRA,PL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,272 ms,502 kB/s
+46.149.73.96,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,288 ms,502 kB/s
+138.124.187.19,2053,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,235 ms,502 kB/s
+89.107.10.22,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,250 ms,502 kB/s
+51.38.48.174,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,186 ms,499 kB/s
+194.147.149.155,444,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,494 kB/s
+14.21.7.146,12388,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,210 ms,492 kB/s
+5.178.106.243,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,490 kB/s
+77.238.234.221,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,249 ms,488 kB/s
+193.32.177.101,443,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,257 ms,484 kB/s
+109.237.99.236,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,289 ms,484 kB/s
+162.245.191.87,8443,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,249 ms,484 kB/s
+147.45.136.240,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,299 ms,480 kB/s
+141.94.204.200,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,220 ms,478 kB/s
+146.59.232.246,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,177 ms,477 kB/s
+172.174.161.239,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,288 ms,476 kB/s
+31.15.19.109,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,302 ms,474 kB/s
+194.87.62.246,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,288 ms,471 kB/s
+67.207.73.198,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,282 ms,471 kB/s
+146.59.232.140,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,181 ms,468 kB/s
+91.186.217.144,443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,238 ms,467 kB/s
+147.45.152.193,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,305 ms,467 kB/s
+91.103.140.16,443,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,265 ms,464 kB/s
+212.34.143.60,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,286 ms,463 kB/s
+194.246.82.98,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,248 ms,461 kB/s
+193.124.22.168,8443,true,RIX,LV,Europe,Riga,欧洲,拉脱维亚,里加,🇱🇻,316 ms,461 kB/s
+154.64.239.21,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,188 ms,460 kB/s
+104.249.40.214,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,314 ms,458 kB/s
+5.61.56.223,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,235 ms,458 kB/s
+80.242.58.40,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,295 ms,455 kB/s
+45.12.69.139,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,264 ms,455 kB/s
+14.21.7.146,10045,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,223 ms,454 kB/s
+45.43.79.182,8443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,295 ms,452 kB/s
+185.233.81.42,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,182 ms,446 kB/s
+146.59.238.60,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,194 ms,444 kB/s
+95.179.189.0,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,442 kB/s
+212.118.40.36,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,290 ms,438 kB/s
+103.44.255.81,443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,45 ms,434 kB/s
+185.225.17.233,2053,true,OTP,RO,Europe,Bucharest,欧洲,罗马尼亚,布加勒斯特,🇷🇴,289 ms,430 kB/s
+89.22.231.195,443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,268 ms,429 kB/s
+77.72.85.186,8443,true,TLL,EE,Europe,Tallinn,欧洲,爱沙尼亚,塔林,🇪🇪,328 ms,428 kB/s
+141.94.205.130,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,192 ms,428 kB/s
+185.209.162.38,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,269 ms,426 kB/s
+135.125.190.99,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,426 kB/s
+178.255.222.43,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,227 ms,425 kB/s
+211.213.233.164,12056,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,101 ms,421 kB/s
+207.154.235.176,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,254 ms,420 kB/s
+89.116.44.170,2053,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,271 ms,419 kB/s
+51.91.103.142,8443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,415 kB/s
+54.36.99.75,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,187 ms,413 kB/s
+185.186.245.63,81,true,DFW,US,North America,Dallas,北美洲,美国,达拉斯,🇺🇸,256 ms,412 kB/s
+141.98.169.24,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,209 ms,412 kB/s
+85.159.226.117,443,true,DUS,DE,Europe,Düsseldorf,欧洲,德国,杜塞尔多夫,🇩🇪,226 ms,410 kB/s
+194.76.173.22,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,187 ms,410 kB/s
+15.204.209.171,2053,true,IAD,US,North America,Ashburn,北美洲,美国,阿什本,🇺🇸,278 ms,402 kB/s
+217.25.91.145,8443,true,AMS,DE,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,257 ms,397 kB/s
+185.142.99.65,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,288 ms,396 kB/s
+109.207.170.39,2053,true,IAD,NL,North America,Ashburn,北美洲,美国,阿什本,🇺🇸,236 ms,394 kB/s
+77.246.110.179,8443,true,DME,NL,Europe,Moscow,欧洲,俄罗斯联邦,莫斯科,🇷🇺,289 ms,393 kB/s
+77.221.141.122,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,351 ms,384 kB/s
+64.21.191.164,443,true,SEA,CA,North America,Seattle,北美洲,美国,西雅图,🇺🇸,196 ms,382 kB/s
+37.1.194.153,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,294 ms,382 kB/s
+5.253.59.140,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,297 ms,381 kB/s
+141.95.161.178,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,205 ms,379 kB/s
+138.124.187.19,8443,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,237 ms,378 kB/s
+94.228.164.78,8443,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,245 ms,372 kB/s
+51.91.100.9,2053,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,188 ms,372 kB/s
+37.27.90.102,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,206 ms,371 kB/s
+172.66.129.111,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,366 kB/s
+57.129.47.17,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,193 ms,365 kB/s
+91.84.102.54,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,287 ms,362 kB/s
+168.100.9.178,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,287 ms,360 kB/s
+5.187.51.204,1195,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,303 ms,360 kB/s
+146.59.238.27,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,189 ms,360 kB/s
+195.54.175.128,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,236 ms,358 kB/s
+141.94.221.2,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,197 ms,358 kB/s
+185.114.73.221,443,true,MAD,ES,Europe,Madrid,欧洲,西班牙,马德里,🇪🇸,261 ms,358 kB/s
+38.244.139.241,8443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,273 ms,355 kB/s
+45.138.73.136,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,237 ms,354 kB/s
+51.178.37.179,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,184 ms,353 kB/s
+45.39.198.40,8080,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,354 ms,349 kB/s
+212.34.132.122,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,287 ms,349 kB/s
+146.59.153.201,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,183 ms,347 kB/s
+46.101.105.119,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,257 ms,343 kB/s
+166.1.201.112,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,262 ms,336 kB/s
+193.188.21.70,443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,317 ms,336 kB/s
+85.234.107.140,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,254 ms,333 kB/s
+77.246.104.128,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,287 ms,332 kB/s
+54.36.98.237,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,175 ms,330 kB/s
+89.110.122.18,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,255 ms,329 kB/s
+172.66.128.149,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,324 kB/s
+89.107.10.22,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,245 ms,324 kB/s
+146.59.232.94,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,183 ms,323 kB/s
+172.66.131.52,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,323 kB/s
+89.110.83.5,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,259 ms,321 kB/s
+51.91.102.26,2053,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,318 kB/s
+51.75.23.173,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,181 ms,318 kB/s
+80.76.34.204,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,274 ms,317 kB/s
+188.34.160.219,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,316 kB/s
+107.175.245.116,2053,true,IAD,US,North America,Ashburn,北美洲,美国,阿什本,🇺🇸,241 ms,311 kB/s
+141.94.205.202,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,186 ms,310 kB/s
+194.58.46.240,443,true,PRG,CZ,Europe,Prague,欧洲,捷克共和国,布拉格,🇨🇿,231 ms,305 kB/s
+178.157.82.110,8443,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,302 ms,305 kB/s
+89.185.82.125,8443,true,SOF,MK,Europe,Sofia,欧洲,保加利亚,索非亚,🇧🇬,218 ms,302 kB/s
+146.56.140.79,25010,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,312 ms,300 kB/s
+195.133.64.240,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,249 ms,299 kB/s
+185.135.86.89,8443,true,RIX,LV,Europe,Riga,欧洲,拉脱维亚,里加,🇱🇻,319 ms,298 kB/s
+65.21.253.160,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,191 ms,298 kB/s
+95.216.168.240,8443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,206 ms,297 kB/s
+51.91.102.36,8443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,297 kB/s
+49.238.239.26,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,294 kB/s
+151.115.58.191,4443,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,318 ms,294 kB/s
+188.253.17.14,443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,266 ms,294 kB/s
+129.154.222.63,8443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,321 ms,293 kB/s
+46.151.24.236,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,292 kB/s
+45.8.146.42,8443,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,247 ms,292 kB/s
+158.180.12.117,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,221 ms,292 kB/s
+77.238.244.75,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,285 ms,291 kB/s
+146.59.225.232,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,181 ms,289 kB/s
+59.36.147.253,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,47 ms,289 kB/s
+51.195.119.2,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,180 ms,288 kB/s
+194.87.31.49,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,255 ms,286 kB/s
+193.70.0.150,2053,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,281 kB/s
+62.84.183.223,8443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,243 ms,281 kB/s
+78.40.116.89,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,313 ms,278 kB/s
+123.52.66.97,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,31 ms,277 kB/s
+188.130.207.235,443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,185 ms,276 kB/s
+77.73.71.180,8443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,296 ms,276 kB/s
+107.161.154.182,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,279 ms,275 kB/s
+66.151.40.245,4443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,274 kB/s
+172.66.130.214,2053,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,272 kB/s
+141.94.221.26,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,211 ms,272 kB/s
+165.22.18.18,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,263 ms,271 kB/s
+212.111.89.146,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,271 kB/s
+146.235.59.153,2053,true,GRU,BR,South America,São Paulo,南美洲,巴西,圣保罗,🇧🇷,367 ms,270 kB/s
+91.184.242.129,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,250 ms,270 kB/s
+165.22.79.90,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,270 ms,269 kB/s
+5.75.201.201,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,267 kB/s
+91.192.102.170,8443,true,ZRH,CH,Europe,Zurich,欧洲,瑞士,苏黎世,🇨🇭,271 ms,267 kB/s
+193.46.218.2,443,true,SJC,US,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,265 kB/s
+141.94.77.169,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,182 ms,265 kB/s
+213.21.241.0,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,260 ms,264 kB/s
+89.150.41.212,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,257 ms,258 kB/s
+78.47.36.196,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,257 kB/s
+213.183.59.144,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,258 ms,256 kB/s
+57.129.47.72,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,226 ms,255 kB/s
+51.75.19.2,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,184 ms,255 kB/s
+66.81.247.237,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms,253 kB/s
+54.36.98.76,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,196 ms,246 kB/s
+72.18.132.149,2053,true,DEN,US,North America,Denver,北美洲,美国,丹佛,🇺🇸,212 ms,245 kB/s
+213.108.199.52,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,280 ms,244 kB/s
+51.195.43.174,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,176 ms,244 kB/s
+141.95.127.33,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,172 ms,244 kB/s
+38.180.97.176,9443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,228 ms,243 kB/s
+80.211.249.240,2053,true,FRA,PL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,279 ms,243 kB/s
+91.132.58.144,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,258 ms,243 kB/s
+37.1.200.32,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,178 ms,241 kB/s
+159.255.33.232,443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,210 ms,241 kB/s
+91.84.105.40,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,258 ms,240 kB/s
+212.192.9.100,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,263 ms,239 kB/s
+141.94.222.42,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,188 ms,238 kB/s
+162.19.243.20,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,237 kB/s
+135.125.239.132,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,236 kB/s
+5.178.106.27,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,184 ms,236 kB/s
+147.45.49.11,8443,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,382 ms,234 kB/s
+194.146.24.199,2053,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,249 ms,233 kB/s
+95.181.161.93,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,231 kB/s
+172.66.131.174,8443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,171 ms,226 kB/s
+146.59.157.3,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,187 ms,225 kB/s
+52.77.114.70,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,253 ms,219 kB/s
+49.238.237.232,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,219 kB/s
+104.249.40.77,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,294 ms,218 kB/s
+178.208.79.186,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,222 ms,218 kB/s
+185.232.204.222,443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,260 ms,213 kB/s
+195.123.211.205,2053,true,WAW,LV,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,239 ms,213 kB/s
+51.38.49.203,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,195 ms,209 kB/s
+45.154.98.230,4010,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,209 kB/s
+147.78.140.39,2083,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,188 ms,208 kB/s
+2.56.91.89,2053,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,338 ms,206 kB/s
+115.236.35.109,12255,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,215 ms,203 kB/s
+5.199.133.190,8005,true,DUS,DE,Europe,Düsseldorf,欧洲,德国,杜塞尔多夫,🇩🇪,223 ms,203 kB/s
+185.109.48.200,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,236 ms,202 kB/s
+123.52.67.150,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,63 ms,202 kB/s
+125.91.111.4,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,72 ms,201 kB/s
+195.54.174.216,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,236 ms,200 kB/s
+141.94.63.242,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,190 ms,198 kB/s
+51.83.45.59,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,205 ms,197 kB/s
+103.149.145.117,443,true,SEA,US,North America,Seattle,北美洲,美国,西雅图,🇺🇸,197 ms,196 kB/s
+123.52.66.70,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,34 ms,196 kB/s
+57.129.47.27,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,195 kB/s
+172.86.68.95,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,224 ms,195 kB/s
+135.125.232.249,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,192 kB/s
+147.45.68.252,8082,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,250 ms,192 kB/s
+45.144.51.160,8443,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,303 ms,189 kB/s
+89.23.107.63,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,296 ms,187 kB/s
+51.178.81.163,2053,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,186 ms,185 kB/s
+146.59.232.140,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,196 ms,185 kB/s
+178.208.87.140,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,288 ms,184 kB/s
+188.116.21.222,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,220 ms,184 kB/s
+217.144.185.36,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,261 ms,184 kB/s
+51.75.18.158,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,178 ms,181 kB/s
+37.218.246.70,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,261 ms,181 kB/s
+141.94.222.73,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,191 ms,181 kB/s
+181.41.194.85,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,241 ms,180 kB/s
+57.129.63.145,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,177 kB/s
+45.95.232.43,8443,true,ZRH,CH,Europe,Zurich,欧洲,瑞士,苏黎世,🇨🇭,253 ms,175 kB/s
+31.128.34.61,8443,true,WAW,LV,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,246 ms,174 kB/s
+91.84.100.19,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,286 ms,174 kB/s
+94.177.199.119,8443,true,FCO,IT,Europe,Rome,欧洲,意大利,罗马,🇮🇹,274 ms,174 kB/s
+162.19.242.212,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,173 kB/s
+213.5.128.223,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,228 ms,171 kB/s
+91.84.103.60,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,286 ms,167 kB/s
+123.52.65.206,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,30 ms,166 kB/s
+167.86.88.154,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,262 ms,164 kB/s
+123.52.67.143,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,31 ms,162 kB/s
+162.19.224.113,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,161 kB/s
+90.156.254.41,443,true,ARN,LV,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,245 ms,161 kB/s
+94.241.173.212,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,316 ms,161 kB/s
+89.105.223.93,2053,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,263 ms,160 kB/s
+91.84.105.32,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,278 ms,160 kB/s
+141.11.182.13,8080,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,255 ms,155 kB/s
+216.173.71.220,8443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,268 ms,155 kB/s
+104.225.131.106,1901,true,MIA,US,North America,Miami,北美洲,美国,迈阿密,🇺🇸,242 ms,155 kB/s
+192.210.255.57,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,319 ms,155 kB/s
+103.45.245.208,2053,true,MAD,ES,Europe,Madrid,欧洲,西班牙,马德里,🇪🇸,257 ms,153 kB/s
+132.226.163.224,8443,true,GRU,BR,South America,São Paulo,南美洲,巴西,圣保罗,🇧🇷,407 ms,152 kB/s
+14.29.240.90,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,48 ms,151 kB/s
+104.234.50.215,2053,true,IAD,US,North America,Ashburn,北美洲,美国,阿什本,🇺🇸,272 ms,150 kB/s
+185.245.106.205,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,300 ms,149 kB/s
+38.180.135.97,2053,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,262 ms,148 kB/s
+94.131.2.187,2053,true,ALA,KZ,Asia Pacific,Almaty,亚洲,哈萨克斯坦,阿拉木图,🇰🇿,272 ms,148 kB/s
+94.177.51.214,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,293 ms,147 kB/s
+188.253.23.185,443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,277 ms,145 kB/s
+192.210.255.57,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,298 ms,142 kB/s
+51.159.6.227,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,182 ms,142 kB/s
+14.29.129.224,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,49 ms,141 kB/s
+185.170.10.34,443,true,AMS,RU,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,224 ms,139 kB/s
+134.209.166.117,443,true,EWR,US,North America,Newark,北美洲,美国,纽瓦克,🇺🇸,272 ms,139 kB/s
+216.173.71.69,8443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,294 ms,139 kB/s
+38.180.99.253,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,231 ms,135 kB/s
+45.82.255.214,8443,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,242 ms,135 kB/s
+45.144.48.81,2053,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,296 ms,133 kB/s
+193.42.60.128,443,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,271 ms,132 kB/s
+64.225.68.70,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,294 ms,130 kB/s
+212.192.31.16,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,256 ms,129 kB/s
+66.151.34.105,2053,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,316 ms,129 kB/s
+5.39.220.125,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,251 ms,128 kB/s
+5.230.67.39,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,297 ms,126 kB/s
+46.17.97.237,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,272 ms,126 kB/s
+5.35.33.174,2053,true,DME,NL,Europe,Moscow,欧洲,俄罗斯联邦,莫斯科,🇷🇺,292 ms,123 kB/s
+45.32.183.106,80,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,287 ms,123 kB/s
+147.45.147.212,8443,true,DME,RU,Europe,Moscow,欧洲,俄罗斯联邦,莫斯科,🇷🇺,299 ms,123 kB/s
+109.205.214.230,6443,true,DUS,NL,Europe,Düsseldorf,欧洲,德国,杜塞尔多夫,🇩🇪,310 ms,121 kB/s
+77.83.172.195,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,260 ms,117 kB/s
+109.120.158.109,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,263 ms,117 kB/s
+185.232.205.9,443,true,MAD,ES,Europe,Madrid,欧洲,西班牙,马德里,🇪🇸,281 ms,116 kB/s
+59.36.143.125,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,50 ms,116 kB/s
+185.224.248.13,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,179 ms,113 kB/s
+103.113.69.116,2053,true,VNO,LT,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,231 ms,113 kB/s
+117.50.80.157,1234,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,38 ms,112 kB/s
+45.43.76.218,443,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,328 ms,112 kB/s
+109.120.158.12,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,110 kB/s
+147.45.244.217,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,255 ms,107 kB/s
+172.66.131.29,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,106 kB/s
+2.59.162.22,2053,true,VNO,LT,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,210 ms,105 kB/s
+64.188.97.87,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,257 ms,103 kB/s
+80.85.246.195,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,251 ms,101 kB/s
+79.132.143.192,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,244 ms,100 kB/s
+147.45.167.39,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,252 ms,100 kB/s
+80.76.34.29,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,172 ms,97 kB/s
+91.227.40.125,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,252 ms,94 kB/s
+195.133.63.151,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,254 ms,93 kB/s
+23.95.14.50,55555,true,YYZ,US,North America,Toronto,北美洲,加拿大,多伦多,🇨🇦,254 ms,92 kB/s
+135.125.190.99,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,91 kB/s
+46.226.167.129,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,251 ms,91 kB/s
+206.189.107.74,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,306 ms,90 kB/s
+109.71.240.207,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,266 ms,90 kB/s
+176.124.32.15,2053,true,TLL,EE,Europe,Tallinn,欧洲,爱沙尼亚,塔林,🇪🇪,351 ms,88 kB/s
+88.218.77.42,2053,true,FRA,FR,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,263 ms,85 kB/s
+123.52.65.161,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,39 ms,85 kB/s
+77.105.137.63,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,246 ms,84 kB/s
+123.52.64.102,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,33 ms,82 kB/s
+194.87.97.6,2053,true,ZRH,CH,Europe,Zurich,欧洲,瑞士,苏黎世,🇨🇭,186 ms,82 kB/s
+81.22.132.222,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,244 ms,81 kB/s
+125.91.105.202,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,53 ms,78 kB/s
+49.12.119.73,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,195 ms,78 kB/s
+185.36.140.228,8443,true,ARN,EE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,207 ms,78 kB/s
+195.20.208.72,443,true,ARN,LV,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,246 ms,78 kB/s
+91.84.103.10,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,286 ms,77 kB/s
+194.87.200.151,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,316 ms,76 kB/s
+94.131.2.187,8443,true,AKX,KZ,Asia Pacific,Aktobe,亚洲,哈萨克斯坦,阿克托别,🇰🇿,333 ms,74 kB/s
+194.35.12.70,2052,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,224 ms,72 kB/s
+194.135.33.130,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,198 ms,72 kB/s
+38.180.99.188,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,226 ms,72 kB/s
+77.73.71.180,2053,true,VNO,LV,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,284 ms,71 kB/s
+162.19.254.180,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,71 kB/s
+94.241.173.145,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,290 ms,71 kB/s
+57.129.47.19,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,167 ms,71 kB/s
+152.53.14.140,8443,true,HAM,DE,Europe,Hamburg,欧洲,德国,汉堡,🇩🇪,171 ms,71 kB/s
+123.52.67.42,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,34 ms,70 kB/s
+14.29.164.34,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,48 ms,67 kB/s
+60.249.114.181,11285,true,TPE,TW,Asia Pacific,Taipei,亚洲,台湾,台北,🇹🇼,189 ms,66 kB/s
+95.215.8.237,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,313 ms,65 kB/s
+77.221.158.25,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,276 ms,65 kB/s
+31.128.34.61,2053,true,ARN,LV,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,211 ms,61 kB/s
+77.238.227.222,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,287 ms,59 kB/s
+37.252.6.119,443,true,WAW,PL,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,229 ms,58 kB/s
+109.234.39.165,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,296 ms,58 kB/s
+195.54.174.99,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,231 ms,58 kB/s
+95.85.89.70,81,true,MAD,ES,Europe,Madrid,欧洲,西班牙,马德里,🇪🇸,278 ms,56 kB/s
+94.131.119.136,81,true,OTP,RO,Europe,Bucharest,欧洲,罗马尼亚,布加勒斯特,🇷🇴,204 ms,55 kB/s
+77.105.137.63,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,246 ms,53 kB/s
+123.52.64.247,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,35 ms,53 kB/s
+38.180.209.40,2053,true,IST,TR,Europe,Istanbul,欧洲,土耳其,伊斯坦布尔,🇹🇷,236 ms,52 kB/s
+82.152.8.171,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,174 ms,52 kB/s
+185.209.49.17,8443,true,SIN,AE,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,299 ms,50 kB/s
+94.141.103.60,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,255 ms,47 kB/s
+141.95.149.52,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,196 ms,47 kB/s
+46.29.234.155,2053,true,VNO,LT,Europe,Vilnius,欧洲,立陶宛,维尔纽斯,🇱🇹,231 ms,46 kB/s
+138.124.116.253,443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,312 ms,44 kB/s
+59.36.145.186,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,56 ms,43 kB/s
+1.192.191.183,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,45 ms,43 kB/s
+45.135.180.157,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,245 ms,43 kB/s
+213.142.146.112,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,226 ms,43 kB/s
+59.36.76.111,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,42 ms,43 kB/s
+45.140.146.80,2053,true,KIV,MD,Europe,Chișinău,欧洲,摩尔多瓦共和国,基希讷乌,🇲🇩,219 ms,42 kB/s
+185.254.158.87,443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,250 ms,41 kB/s
+91.199.32.160,2053,true,LHR,GB,Europe,London,欧洲,英国,伦敦,🇬🇧,184 ms,40 kB/s
+80.64.17.129,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,296 ms,40 kB/s
+194.116.190.199,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,206 ms,39 kB/s
+59.36.138.17,10011,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,51 ms,39 kB/s
+54.251.148.77,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,267 ms,38 kB/s
+69.12.83.121,443,true,ARN,EE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,240 ms,38 kB/s
+88.210.37.244,8443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,191 ms,38 kB/s
+185.47.172.172,8443,true,MXP,IT,Europe,Milan,欧洲,意大利,米兰,🇮🇹,252 ms,37 kB/s
+188.165.2.67,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,189 ms,35 kB/s
+147.45.248.153,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,310 ms,35 kB/s
+213.170.157.1,443,true,PDX,US,North America,Portland,北美洲,美国,波特兰,🇺🇸,216 ms,33 kB/s
+185.104.250.204,443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,245 ms,32 kB/s
+195.123.211.205,8443,true,ARN,LV,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,240 ms,31 kB/s
+185.186.244.217,81,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,190 ms,31 kB/s
+185.233.81.42,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,188 ms,30 kB/s
+89.110.81.200,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,296 ms,29 kB/s
+195.123.210.147,443,true,WAW,LV,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,211 ms,28 kB/s
+94.23.78.198,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,195 ms,27 kB/s
+91.245.225.79,2053,true,ZRH,CH,Europe,Zurich,欧洲,瑞士,苏黎世,🇨🇭,225 ms,21 kB/s
+147.45.43.24,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,309 ms,20 kB/s
+176.124.202.70,443,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,344 ms,19 kB/s
+37.1.197.77,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,299 ms,18 kB/s
+94.23.72.40,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,180 ms,17 kB/s
+185.188.181.214,443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,203 ms,16 kB/s
+185.125.231.161,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,213 ms,14 kB/s
+45.133.246.84,443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,221 ms,14 kB/s
+188.116.24.56,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,232 ms,13 kB/s
+66.151.42.127,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,269 ms,12 kB/s
+95.216.192.214,443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,200 ms,12 kB/s
+195.200.30.167,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,254 ms,12 kB/s
+85.202.193.54,8443,true,WAW,KZ,Europe,Warsaw,欧洲,波兰,华沙,🇵🇱,311 ms,11 kB/s
+37.1.194.154,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,297 ms,10 kB/s
+141.147.174.243,443,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,150 ms,10 kB/s
+156.255.90.175,8443,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,239 ms,8 kB/s
+141.11.91.67,8080,true,HKG,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,337 ms,8 kB/s
+93.152.207.12,443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,208 ms,7 kB/s
+66.151.34.156,443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,285 ms,7 kB/s
+64.69.24.16,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,0 kB/s
+49.238.237.3,9443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,211 ms,0 kB/s
+170.114.52.59,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,0 kB/s
+170.114.52.15,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,174 ms,0 kB/s
+66.81.255.21,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,169 ms,0 kB/s
+49.238.237.3,5443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,0 kB/s
+74.119.132.1,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,182 ms,0 kB/s
+64.69.24.18,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,0 kB/s
+170.114.52.139,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,188 ms,0 kB/s
+209.177.165.17,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms,0 kB/s
+170.114.52.96,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,175 ms,0 kB/s
+64.69.24.4,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,187 ms,0 kB/s
+170.114.52.87,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,0 kB/s
+64.69.24.76,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,176 ms,0 kB/s
+170.114.52.151,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,0 kB/s
+16.171.200.45,443,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,199 ms,0 kB/s
+64.69.24.67,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,177 ms,0 kB/s
+64.69.24.39,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,181 ms,0 kB/s
+64.69.24.63,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,167 ms,0 kB/s
+64.69.24.50,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,210 ms,0 kB/s
+64.69.24.53,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,178 ms,0 kB/s
+49.238.237.3,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,173 ms,0 kB/s
+170.114.52.95,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,183 ms,0 kB/s
+170.114.52.2,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,190 ms,0 kB/s
+64.69.24.40,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,0 kB/s
+49.238.237.196,443,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,179 ms,0 kB/s
+159.223.28.21,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,261 ms,0 kB/s
+176.97.74.148,443,true,TLL,EE,Europe,Tallinn,欧洲,爱沙尼亚,塔林,🇪🇪,286 ms,0 kB/s
+45.135.180.50,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,280 ms,0 kB/s
+170.114.52.105,443,true,YYZ,CN,North America,Toronto,北美洲,加拿大,多伦多,🇨🇦,174 ms,0 kB/s
+132.145.81.117,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,308 ms,0 kB/s
+64.69.24.25,443,true,CDG,CN,Europe,Paris,欧洲,法国,巴黎,🇫🇷,190 ms,0 kB/s
+170.114.52.80,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,175 ms,0 kB/s
+170.114.52.126,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,183 ms,0 kB/s
+170.114.52.113,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,0 kB/s
+64.69.24.20,443,true,SIN,CN,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,169 ms,0 kB/s
+64.69.24.22,443,true,SIN,CN,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,182 ms,0 kB/s
+64.69.24.87,443,true,LHR,CN,Europe,London,欧洲,英国,伦敦,🇬🇧,179 ms,0 kB/s
+64.69.24.21,443,true,SIN,CN,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,175 ms,0 kB/s
+148.135.43.240,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,210 ms,0 kB/s
+212.80.217.127,443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,220 ms,0 kB/s
+46.229.253.157,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,195 ms,0 kB/s
+82.115.4.76,16400,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,222 ms,0 kB/s
+49.13.121.240,2095,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,185 ms,0 kB/s
+95.182.97.146,8443,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,185 ms,0 kB/s
+172.66.133.30,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,0 kB/s
+172.66.130.241,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,169 ms,0 kB/s
+46.226.165.21,587,true,FRA,SE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,265 ms,0 kB/s
+150.241.105.36,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,259 ms,0 kB/s
+49.238.238.91,2053,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,170 ms,0 kB/s
+94.23.74.37,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,174 ms,0 kB/s
+51.38.48.91,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,189 ms,0 kB/s
+135.181.198.101,8443,true,HEL,FI,Europe,Helsinki,欧洲,芬兰,赫尔辛基,🇫🇮,183 ms,0 kB/s
+93.185.163.181,2087,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,219 ms,0 kB/s
+103.106.228.126,2053,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,145 ms,0 kB/s
+89.117.57.4,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,245 ms,0 kB/s
+185.125.230.21,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,250 ms,0 kB/s
+45.81.225.153,2053,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,212 ms,0 kB/s
+185.78.76.63,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,254 ms,0 kB/s
+38.180.99.189,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,196 ms,0 kB/s
+188.130.206.12,8443,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,212 ms,0 kB/s
+83.147.216.10,443,true,FRA,FI,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,319 ms,0 kB/s
+94.237.84.100,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,254 ms,0 kB/s
+94.177.8.3,131,true,VIE,AT,Europe,Vienna,欧洲,奥地利,维也纳,🇦🇹,262 ms,0 kB/s
+45.120.178.223,2053,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,230 ms,0 kB/s
+185.114.73.166,2053,true,MAD,ES,Europe,Madrid,欧洲,西班牙,马德里,🇪🇸,263 ms,0 kB/s
+64.110.88.90,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,411 ms,0 kB/s
+188.130.206.216,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,208 ms,0 kB/s
+172.66.131.219,2087,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,201 ms,0 kB/s
+193.176.153.151,2053,true,CDG,FR,Europe,Paris,欧洲,法国,巴黎,🇫🇷,185 ms,0 kB/s
+57.129.5.108,8443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,173 ms,0 kB/s
+194.180.188.253,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,279 ms,0 kB/s
+95.181.174.102,443,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,261 ms,0 kB/s
+172.66.128.117,443,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,181 ms,0 kB/s
+77.246.100.139,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,0 kB/s
+185.125.230.158,443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,249 ms,0 kB/s
+49.238.236.22,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,171 ms,0 kB/s
+172.66.130.248,2096,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,177 ms,0 kB/s
+172.66.131.187,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,189 ms,0 kB/s
+49.238.238.160,2096,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,0 kB/s
+172.66.131.174,2083,true,FRA,CN,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,191 ms,0 kB/s
+217.145.79.119,2053,true,ARN,FI,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,210 ms,0 kB/s
+65.75.193.2,443,true,LAX,US,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,182 ms,0 kB/s
+5.187.0.232,2053,true,FRA,DE,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,257 ms,0 kB/s
+91.103.252.222,8443,true,FRA,NL,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,253 ms,0 kB/s
+45.138.74.96,443,true,FRA,AT,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,246 ms,0 kB/s
+80.85.246.81,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,292 ms,0 kB/s
+94.228.169.28,443,true,FRA,AT,Europe,Frankfurt,欧洲,德国,法兰克福,🇩🇪,261 ms,0 kB/s
+49.238.237.112,2087,true,SJC,CN,North America,San Jose,北美洲,美国,圣何塞,🇺🇸,172 ms,0 kB/s
+45.95.232.18,8443,true,ZRH,CH,Europe,Zurich,欧洲,瑞士,苏黎世,🇨🇭,249 ms,0 kB/s
+89.110.120.140,8443,true,AMS,NL,Europe,Amsterdam,欧洲,荷兰,阿姆斯特丹,🇳🇱,289 ms,0 kB/s
+77.221.142.186,2053,true,ARN,SE,Europe,Stockholm,欧洲,瑞典,斯德哥尔摩,🇸🇪,272 ms,0 kB/s
+85.159.228.84,8443,true,RIX,LV,Europe,Riga,欧洲,拉脱维亚,里加,🇱🇻,262 ms,0 kB/s

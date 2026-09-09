@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,feverhub.ai
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,hamreus.com
+DOMAIN-SUFFIX,banana.listenhub.ai
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
